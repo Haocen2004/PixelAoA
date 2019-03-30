@@ -95,9 +95,9 @@ key_key.skills:23
 key_key.skillsLeft:203
 key_key.skillsRight:205
 key_key.resources:24
+key_quark.keybind.toggleAutojump:48
 key_quark.keybind.lockBuilding:37
 key_quark.keybind.changeHotbar:44
-key_quark.keybind.toggleAutojump:48
 key_keybind.hammercorerenderstack:77
 key_chineseworkshop.keybind.select:56
 key_Open Menu:25

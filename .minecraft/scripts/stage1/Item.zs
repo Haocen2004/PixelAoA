@@ -1,3 +1,4 @@
+import mods.ResearchTable;
 //Stage 1
 print('Stage1 installing...');
 
@@ -14,8 +15,8 @@ ResearchTable.builder("stage1Research", cat) // The second parameter has no use 
 
 
 //AoA3
-mods.ItemStages.addItemStage("one", <AoA3:copper_coin>);
-mods.ItemStages.addItemStage("one", <AoA3:creeponia_realmstone>);
+mods.ItemStages.addItemStage("one", <aoa3:copper_coin>);
+mods.ItemStages.addItemStage("one", <aoa3:creeponia_realmstone>);
 
 
 
