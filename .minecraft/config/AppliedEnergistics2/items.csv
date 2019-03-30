@@ -2537,20 +2537,6 @@ appliedenergistics2:fluix_slab:0, 福鲁伊克斯台阶
 appliedenergistics2:quartz_slab:0, 赛特斯石英台阶
 appliedenergistics2:chiseled_quartz_slab:0, 錾制赛特斯石英台阶
 appliedenergistics2:quartz_pillar_slab:0, 竖纹赛特斯石英台阶
-appliedenergistics2:certus_quartz_axe, 赛特斯石英斧
-appliedenergistics2:certus_quartz_hoe, 赛特斯石英锄
-appliedenergistics2:certus_quartz_spade, 赛特斯石英锹
-appliedenergistics2:certus_quartz_pickaxe, 赛特斯石英镐
-appliedenergistics2:certus_quartz_sword, 赛特斯石英剑
-appliedenergistics2:certus_quartz_wrench, 赛特斯石英扳手
-appliedenergistics2:certus_quartz_cutting_knife, 赛特斯石英切割刀
-appliedenergistics2:nether_quartz_axe, 下界石英斧
-appliedenergistics2:nether_quartz_hoe, 下界石英锄
-appliedenergistics2:nether_quartz_spade, 下界石英锹
-appliedenergistics2:nether_quartz_pickaxe, 下界石英镐
-appliedenergistics2:nether_quartz_sword, 下界石英剑
-appliedenergistics2:nether_quartz_wrench, 下界石英扳手
-appliedenergistics2:nether_quartz_cutting_knife, 下界石英切割刀
 appliedenergistics2:entropy_manipulator, 熵变机械臂
 appliedenergistics2:wireless_terminal, 无线终端
 appliedenergistics2:charged_staff, 充能手杖
@@ -3628,13 +3614,6 @@ appliedenergistics2:facade:0, 线缆伪装板 - 下界粘土块
 appliedenergistics2:facade:0, 线缆伪装板 - 花岗岩圆石
 appliedenergistics2:facade:0, 线缆伪装板 - 闪长岩圆石
 appliedenergistics2:facade:0, 线缆伪装板 - 安山岩圆石
-appliedenergistics2:facade:0, 线缆伪装板 - 大理石
-appliedenergistics2:facade:0, 线缆伪装板 - 石灰石
-appliedenergistics2:facade:0, 线缆伪装板 - 末影云母矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 云母块
-appliedenergistics2:facade:0, 线缆伪装板 - 錾制云母块
-appliedenergistics2:facade:0, 线缆伪装板 - 竖纹云母块
-appliedenergistics2:facade:0, 线缆伪装板 - 玄武岩
 appliedenergistics2:facade:0, 线缆伪装板 - 磨制砂岩
 appliedenergistics2:facade:0, 线缆伪装板 - 磨制石头
 appliedenergistics2:facade:0, 线缆伪装板 - 白色染色木板
@@ -3664,6 +3643,13 @@ appliedenergistics2:facade:0, 线缆伪装板 - 白色缝边羊毛
 appliedenergistics2:facade:0, 线缆伪装板 - 云杉木书架
 appliedenergistics2:facade:0, 线缆伪装板 - 点亮的红石灯
 appliedenergistics2:facade:0, 线缆伪装板 - 烈焰灯
+appliedenergistics2:facade:0, 线缆伪装板 - 大理石
+appliedenergistics2:facade:0, 线缆伪装板 - 石灰石
+appliedenergistics2:facade:0, 线缆伪装板 - 末影云母矿石
+appliedenergistics2:facade:0, 线缆伪装板 - 云母块
+appliedenergistics2:facade:0, 线缆伪装板 - 錾制云母块
+appliedenergistics2:facade:0, 线缆伪装板 - 竖纹云母块
+appliedenergistics2:facade:0, 线缆伪装板 - 玄武岩
 appliedenergistics2:facade:0, 线缆伪装板 - 世界守护砖[弃用]
 appliedenergistics2:facade:0, 线缆伪装板 - 世界守护矿石[弃用]
 appliedenergistics2:facade:0, 线缆伪装板 - 粗粝的世界守护砖[弃用]
@@ -3892,23 +3878,23 @@ appliedenergistics2:facade:0, 线缆伪装板 - 丛林木桥接方块
 appliedenergistics2:facade:0, 线缆伪装板 - 金合欢木桥接方块
 appliedenergistics2:facade:0, 线缆伪装板 - 深色橡木桥接方块
 appliedenergistics2:facade:0, 线缆伪装板 - 烟黑石英块
-appliedenergistics2:facade:0, 线缆伪装板 - 柚树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 香橼树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 橘子树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 西柚树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 橙子树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 柠檬树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 酸橙树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 柚树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 香橼树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 橘子树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 西柚树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 橙子树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 柠檬树叶
-appliedenergistics2:facade:0, 线缆伪装板 - 酸橙树叶
 appliedenergistics2:facade:0, 线缆伪装板 - 豆腐块
 appliedenergistics2:facade:0, 线缆伪装板 - 柑橘木板
 appliedenergistics2:facade:0, 线缆伪装板 - 柑橘木
+appliedenergistics2:facade:0, 线缆伪装板 - 柚树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 香橼树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 橘子树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 西柚树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 橙子树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 柠檬树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 酸橙树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 柚树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 香橼树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 橘子树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 西柚树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 橙子树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 柠檬树叶
+appliedenergistics2:facade:0, 线缆伪装板 - 酸橙树叶
 appliedenergistics2:facade:0, 线缆伪装板 - 束能金属矿
 appliedenergistics2:facade:0, 线缆伪装板 - 虚能水晶矿
 appliedenergistics2:facade:0, 线缆伪装板 - 虚像硅矿
@@ -3972,20 +3958,6 @@ appliedenergistics2:facade:0, 线缆伪装板 - 末影珍珠块
 appliedenergistics2:facade:0, 线缆伪装板 - 熔岩工厂外墙
 appliedenergistics2:facade:0, 线缆伪装板 - 末影外壳
 appliedenergistics2:facade:0, 线缆伪装板 - 铁制外壳
-appliedenergistics2:facade:0, 线缆伪装板 - 下界红石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 下界铁矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 下界金矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 下界煤矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 下界青金石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 下界绿宝石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 下界钻石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 末地红石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 末地煤矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 末地青金石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 末地绿宝石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 末地钻石矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 末地金矿石
-appliedenergistics2:facade:0, 线缆伪装板 - 末地铁矿石
 appliedenergistics2:facade:0, 线缆伪装板 - 干燥的泥炭田
 appliedenergistics2:facade:0, 线缆伪装板 - 湿润的泥炭田
 appliedenergistics2:facade:0, 线缆伪装板 - 隔音块
@@ -4238,6 +4210,7 @@ appliedenergistics2:part:380, ME终端
 appliedenergistics2:part:80, ME触发总线
 ae2wtlib:infinity_booster_card, 无线范围卡
 thaumcraft:thaumonomicon:0, 魔导手册
+thaumcraft:thaumonomicon:1, 作弊者魔导手册
 thaumcraft:curio:0, 奥术珍品
 thaumcraft:curio:1, 传世珍品
 thaumcraft:curio:2, 远古珍品
@@ -4458,6 +4431,502 @@ thaumcraft:seal:13, 操控印记：使用
 thaumcraft:seal:14, 操控印记：供给
 thaumcraft:seal:15, 操控印记：仓储
 thaumcraft:seal:16, 操控印记：高级方块采掘
+botania:livingwood0stairs, tile.livingwood0Stairs.name
+botania:livingwood0slab:0, 活木台阶
+botania:livingwood0wall, tile.livingwood0Wall.name
+botania:livingwood1stairs, tile.livingwood1Stairs.name
+botania:livingwood1slab:0, 活木台阶
+botania:livingrock0stairs, tile.livingrock0Stairs.name
+botania:livingrock0slab:0, 活石台阶
+botania:livingrock0wall, tile.livingrock0Wall.name
+botania:livingrock1stairs, tile.livingrock1Stairs.name
+botania:livingrock1slab:0, 活石砖台阶
+botania:dreamwood0stairs, tile.dreamwood0Stairs.name
+botania:dreamwood0slab:0, 梦之木台阶
+botania:dreamwood0wall, tile.dreamwood0Wall.name
+botania:dreamwood1stairs, tile.dreamwood1Stairs.name
+botania:dreamwood1slab:0, 梦之木台阶
+botania:quartztypedark:0, 烟熏石英块
+botania:quartztypedark:1, 錾制烟熏石英块
+botania:quartztypedark:2, 竖纹烟熏石英块
+botania:quartzslabdarkhalf:0, 烟熏石英台阶
+botania:quartzstairsdark, tile.quartzStairsDark.name
+botania:quartztypemana:0, 魔力石英块
+botania:quartztypemana:1, 錾制魔力石英块
+botania:quartztypemana:2, 竖纹魔力石英块
+botania:quartzslabmanahalf:0, 魔力石英台阶
+botania:quartzstairsmana, tile.quartzStairsMana.name
+botania:quartztypeblaze:0, 烈焰石英块
+botania:quartztypeblaze:1, 錾制烈焰石英块
+botania:quartztypeblaze:2, 竖纹烈焰石英块
+botania:quartzslabblazehalf:0, 烈焰石英台阶
+botania:quartzstairsblaze, tile.quartzStairsBlaze.name
+botania:quartztypelavender:0, 熏香石英块
+botania:quartztypelavender:1, 錾制熏香石英块
+botania:quartztypelavender:2, 竖纹熏香石英块
+botania:quartzslablavenderhalf:0, 熏香石英台阶
+botania:quartzstairslavender, tile.quartzStairsLavender.name
+botania:quartztypered:0, 红色石英块
+botania:quartztypered:1, 錾制红色石英块
+botania:quartztypered:2, 竖纹红色石英块
+botania:quartzslabredhalf:0, 红色石英台阶
+botania:quartzstairsred, tile.quartzStairsRed.name
+botania:quartztypeelf:0, 精灵石英块
+botania:quartztypeelf:1, 錾制精灵石英块
+botania:quartztypeelf:2, 竖纹精灵石英块
+botania:quartzslabelfhalf:0, 精灵石英台阶
+botania:quartzstairself, tile.quartzStairsElf.name
+botania:quartztypesunny:0, 金黄石英块
+botania:quartztypesunny:1, 錾制金黄石英块
+botania:quartztypesunny:2, 竖纹金黄石英块
+botania:quartzslabsunnyhalf:0, 金黄石英台阶
+botania:quartzstairssunny, tile.quartzStairsSunny.name
+botania:biomestonea:0, 变质森林石头
+botania:biomestonea:1, 变质平原石头
+botania:biomestonea:2, 变质高山石头
+botania:biomestonea:3, 变质菌丝石头
+botania:biomestonea:4, 变质沼泽石头
+botania:biomestonea:5, 变质沙漠石头
+botania:biomestonea:6, 变质雪原石头
+botania:biomestonea:7, 变质高原石头
+botania:biomestonea:8, 变质森林圆石
+botania:biomestonea:9, 变质平原圆石
+botania:biomestonea:10, 变质高山圆石
+botania:biomestonea:11, 变质菌丝圆石
+botania:biomestonea:12, 变质沼泽圆石
+botania:biomestonea:13, 变质沙漠圆石
+botania:biomestonea:14, 变质雪原圆石
+botania:biomestonea:15, 变质高原圆石
+botania:biomestoneb:0, 变质森林石砖
+botania:biomestoneb:1, 变质平原石砖
+botania:biomestoneb:2, 变质高山石砖
+botania:biomestoneb:3, 变质菌丝石砖
+botania:biomestoneb:4, 变质沼泽石砖
+botania:biomestoneb:5, 变质沙漠石砖
+botania:biomestoneb:6, 变质雪原石砖
+botania:biomestoneb:7, 变质高原石砖
+botania:biomestoneb:8, 錾制变质森林石砖
+botania:biomestoneb:9, 錾制变质平原石砖
+botania:biomestoneb:10, 錾制变质高山石砖
+botania:biomestoneb:11, 錾制变质菌丝石砖
+botania:biomestoneb:12, 錾制变质沼泽石砖
+botania:biomestoneb:13, 錾制变质沙漠石砖
+botania:biomestoneb:14, 錾制变质雪原石砖
+botania:biomestoneb:15, 錾制变质高原石砖
+botania:pavement:0, 白色葡萄牙路面
+botania:pavement:1, 黑色葡萄牙路面
+botania:pavement:2, 蓝色葡萄牙路面
+botania:pavement:3, 红色葡萄牙路面
+botania:pavement:4, 黄色葡萄牙路面
+botania:pavement:5, 绿色葡萄牙路面
+botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
+botania:biomestonea0slab:0, 变质森林石头台阶
+botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
+botania:biomestonea1slab:0, 变质平原石头台阶
+botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
+botania:biomestonea2slab:0, 变质高山石头台阶
+botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
+botania:biomestonea3slab:0, 变质菌丝石头台阶
+botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
+botania:biomestonea4slab:0, 变质沼泽石头台阶
+botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
+botania:biomestonea5slab:0, 变质沙漠石头台阶
+botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
+botania:biomestonea6slab:0, 变质雪原石头台阶
+botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
+botania:biomestonea7slab:0, 变质高原石头台阶
+botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
+botania:biomestonea8slab:0, 变质森林圆石台阶
+botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
+botania:biomestonea9slab:0, 变质平原圆石台阶
+botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
+botania:biomestonea10slab:0, 变质高山圆石台阶
+botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
+botania:biomestonea11slab:0, 变质菌丝圆石台阶
+botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
+botania:biomestonea12slab:0, 变质沼泽圆石台阶
+botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
+botania:biomestonea13slab:0, 变质沙漠圆石台阶
+botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
+botania:biomestonea14slab:0, 变质雪原圆石台阶
+botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
+botania:biomestonea15slab:0, 变质高原圆石台阶
+botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
+botania:biomestoneb0slab:0, 变质森林石砖台阶
+botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
+botania:biomestoneb1slab:0, 变质平原石砖台阶
+botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
+botania:biomestoneb2slab:0, 变质高山石砖台阶
+botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
+botania:biomestoneb3slab:0, 变质菌丝石砖台阶
+botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
+botania:biomestoneb4slab:0, 变质沼泽石砖台阶
+botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
+botania:biomestoneb5slab:0, 变质沙漠石砖台阶
+botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
+botania:biomestoneb6slab:0, 变质雪原石砖台阶
+botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
+botania:biomestoneb7slab:0, 变质高原石砖台阶
+botania:biomestonea0wall:0, 变质森林石墙
+botania:biomestonea0wall:1, 变质平原石墙
+botania:biomestonea0wall:2, 变质高山石墙
+botania:biomestonea0wall:3, 变质菌丝石墙
+botania:biomestonea0wall:4, 变质沼泽石墙
+botania:biomestonea0wall:5, 变质沙漠石墙
+botania:biomestonea0wall:6, 变质雪原石墙
+botania:biomestonea0wall:7, 变质高原石墙
+botania:pavement0stairs, tile.pavement0Stairs.name
+botania:pavement0slab:0, 白色葡萄牙台阶
+botania:pavement1stairs, tile.pavement1Stairs.name
+botania:pavement1slab:0, 黑色葡萄牙台阶
+botania:pavement2stairs, tile.pavement2Stairs.name
+botania:pavement2slab:0, 蓝色葡萄牙台阶
+botania:pavement3stairs, tile.pavement3Stairs.name
+botania:pavement3slab:0, 红色葡萄牙台阶
+botania:pavement4stairs, tile.pavement4Stairs.name
+botania:pavement4slab:0, 黄色葡萄牙台阶
+botania:pavement5stairs, tile.pavement5Stairs.name
+botania:pavement5slab:0, 绿色葡萄牙台阶
+botania:shimmerrock0slab:0, 微光石台阶
+botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
+botania:shimmerwoodplanks0slab:0, 微光木板台阶
+botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
+botania:managlasspane, tile.manaGlassPane.name
+botania:elfglasspane, tile.elfGlassPane.name
+botania:bifrostpermpane, tile.bifrostPermPane.name
+botania:flower:0, 白色神秘花
+botania:flower:1, 橙色神秘花
+botania:flower:2, 品红色神秘花
+botania:flower:3, 淡蓝色神秘花
+botania:flower:4, 黄色神秘花
+botania:flower:5, 黄绿色神秘花
+botania:flower:6, 粉色神秘花
+botania:flower:7, 灰色神秘花
+botania:flower:8, 淡灰色神秘花
+botania:flower:9, 青色神秘花
+botania:flower:10, 紫色神秘花
+botania:flower:11, 蓝色神秘花
+botania:flower:12, 棕色神秘花
+botania:flower:13, 绿色神秘花
+botania:flower:14, 红色神秘花
+botania:flower:15, 黑色神秘花
+botania:altar:0, 花药台
+botania:altar:1, 森林花药台
+botania:altar:2, 平原花药台
+botania:altar:3, 高山花药台
+botania:altar:4, 菌丝花药台
+botania:altar:5, 沼泽花药台
+botania:altar:6, 沙漠花药台
+botania:altar:7, 雪原花药台
+botania:altar:8, 高原花药台
+botania:livingrock:0, 活石
+botania:livingrock:1, 活石砖
+botania:livingrock:2, 苔活石砖
+botania:livingrock:3, 裂活石砖
+botania:livingrock:4, 框边活石砖
+botania:livingwood:0, 活木
+botania:livingwood:1, 活木板
+botania:livingwood:2, 苔活木板
+botania:livingwood:3, 框边活木板
+botania:livingwood:4, 框纹活木板
+botania:livingwood:5, 微光活木
+botania:specialflower:0, 白雏菊
+botania:specialflower:0, 魔力星
+botania:specialflower:0, 火红莲
+botania:specialflower:0, 水绣球
+botania:specialflower:0, 炽玫瑰
+botania:specialflower:0, 阿卡纳蔷薇
+botania:specialflower:0, 咀叶花
+botania:specialflower:0, 热爆花
+botania:specialflower:0, 贪食花
+botania:specialflower:0, 彼方兰
+botania:specialflower:0, 粘球草
+botania:specialflower:0, 斑斓花
+botania:specialflower:0, 噬草花
+botania:specialflower:0, 勿落草
+botania:specialflower:0, 启命英
+botania:specialflower:0, 翡翠苋
+botania:specialflower:0, 娇媚之刺
+botania:specialflower:0, 小娇媚之刺
+botania:specialflower:0, 恐惧之刺
+botania:specialflower:0, 平成之梦
+botania:specialflower:0, 虎之眼
+botania:specialflower:0, 异构花
+botania:specialflower:0, 小异构花
+botania:specialflower:0, 凝矿兰
+botania:specialflower:0, 炎矿兰
+botania:specialflower:0, 天降之奏
+botania:specialflower:0, 冶炼火
+botania:specialflower:0, 田园康乃馨
+botania:specialflower:0, 小田园康乃馨
+botania:specialflower:0, 漏斗花
+botania:specialflower:0, 小漏斗花
+botania:specialflower:0, 手掌花
+botania:specialflower:0, 小手掌花
+botania:specialflower:0, 束缚莓
+botania:specialflower:0, 自由之翼
+botania:specialflower:0, 毒风信
+botania:specialflower:0, 石化草
+botania:specialflower:0, 畜牧花
+botania:specialflower:0, 粘土花
+botania:specialflower:0, 小粘土花
+botania:specialflower:0, 聚宝花
+botania:specialflower:0, 扇水仙
+botania:specialflower:0, 诱引莲
+botania:specialflower:0, 凌空蓟
+botania:specialflower:0, 气泡铃
+botania:specialflower:0, 小气泡铃
+botania:specialflower:0, 弱磁兰
+botania:specialflower:0, 小弱磁兰
+botania:specialflower:0, 消音柑
+botania:specialflower:0, Wither Flower
+botania:specialflower:0, Snow Flower
+botania:specialflower:0, Rain Flower
+botania:specialflower:0, Lightning Flower
+botania:spreader:0, 魔力发射器
+botania:spreader:1, 魔力发射器（红石）
+botania:spreader:2, 精灵魔力发射器
+botania:spreader:3, 盖亚魔力发射器
+botania:pool:0, 魔力池
+botania:pool:2, 稀释魔力池
+botania:pool:3, 神话魔力池
+botania:pool:1, 永恒魔力池
+botania:runealtar, tile.runeAltar.name
+botania:pylon:0, 魔法水晶
+botania:pylon:1, 自然水晶
+botania:pylon:2, 盖亚水晶
+botania:pistonrelay, tile.pistonRelay.name
+botania:distributor, tile.distributor.name
+botania:manavoid, tile.manaVoid.name
+botania:manadetector, tile.manaDetector.name
+botania:enchanter, 附魔器
+botania:turntable, tile.turntable.name
+botania:tinyplanetblock, tile.tinyPlanetBlock.name
+botania:alchemycatalyst, tile.alchemyCatalyst.name
+botania:opencrate:0, 花格箱
+botania:opencrate:1, 机巧箱
+botania:foresteye, tile.forestEye.name
+botania:storage:0, 魔力钢块
+botania:storage:1, 泰拉钢块
+botania:storage:2, 源质钢块
+botania:storage:3, 魔力钻石块
+botania:storage:4, 龙石块
+botania:forestdrum:0, 狂野之鼓
+botania:forestdrum:1, 收集之鼓
+botania:forestdrum:2, 林冠之鼓
+botania:shinyflower:0, 白色荧光花
+botania:shinyflower:1, 橙色荧光花
+botania:shinyflower:2, 品红色荧光花
+botania:shinyflower:3, 淡蓝色荧光花
+botania:shinyflower:4, 黄色荧光花
+botania:shinyflower:5, 黄绿色荧光花
+botania:shinyflower:6, 粉色荧光花
+botania:shinyflower:7, 灰色荧光花
+botania:shinyflower:8, 淡灰色荧光花
+botania:shinyflower:9, 青色荧光花
+botania:shinyflower:10, 紫色荧光花
+botania:shinyflower:11, 蓝色荧光花
+botania:shinyflower:12, 棕色荧光花
+botania:shinyflower:13, 绿色荧光花
+botania:shinyflower:14, 红色荧光花
+botania:shinyflower:15, 黑色荧光花
+botania:platform:0, 奥秘平台
+botania:platform:1, 幻影平台
+botania:platform:2, 不破平台
+botania:alfheimportal, tile.alfheimPortal.name
+botania:dreamwood:0, 梦之木
+botania:dreamwood:1, 梦之木板
+botania:dreamwood:2, 苔梦之木板
+botania:dreamwood:3, 框边梦之木板
+botania:dreamwood:4, 框纹梦之木板
+botania:dreamwood:5, 微光梦之木
+botania:conjurationcatalyst, tile.conjurationCatalyst.name
+botania:bifrost, tile.bifrost.name
+botania:miniisland:0, 白色浮空花
+botania:miniisland:1, 橙色浮空花
+botania:miniisland:2, 品红色浮空花
+botania:miniisland:3, 淡蓝色浮空花
+botania:miniisland:4, 黄色浮空花
+botania:miniisland:5, 黄绿色浮空花
+botania:miniisland:6, 粉色浮空花
+botania:miniisland:7, 灰色浮空花
+botania:miniisland:8, 淡灰色浮空花
+botania:miniisland:9, 青色浮空花
+botania:miniisland:10, 紫色浮空花
+botania:miniisland:11, 蓝色浮空花
+botania:miniisland:12, 棕色浮空花
+botania:miniisland:13, 绿色浮空花
+botania:miniisland:14, 红色浮空花
+botania:miniisland:15, 黑色浮空花
+botania:tinypotato, tile.tinyPotato.name
+botania:spawnerclaw, tile.spawnerClaw.name
+botania:custombrick:0, 阿兹勒赫瓷砖
+botania:custombrick:1, 阿兹勒赫瓷砖
+botania:custombrick:2, 阿兹勒赫瓷砖
+botania:custombrick:3, 阿兹勒赫瓷砖
+botania:custombrick:4, 阿兹勒赫瓷砖
+botania:custombrick:5, 阿兹勒赫瓷砖
+botania:custombrick:6, 阿兹勒赫瓷砖
+botania:custombrick:7, 阿兹勒赫瓷砖
+botania:custombrick:8, 阿兹勒赫瓷砖
+botania:custombrick:9, 阿兹勒赫瓷砖
+botania:custombrick:10, 阿兹勒赫瓷砖
+botania:custombrick:11, 阿兹勒赫瓷砖
+botania:custombrick:12, 阿兹勒赫瓷砖
+botania:custombrick:13, 阿兹勒赫瓷砖
+botania:custombrick:14, 阿兹勒赫瓷砖
+botania:custombrick:15, 阿兹勒赫瓷砖
+botania:endereyeblock, tile.enderEyeBlock.name
+botania:starfield, tile.starfield.name
+botania:rfgenerator, tile.rfGenerator.name
+botania:elfglass, tile.elfGlass.name
+botania:brewery, tile.brewery.name
+botania:managlass, tile.manaGlass.name
+botania:terraplate, tile.terraPlate.name
+botania:redstringcontainer, tile.redStringContainer.name
+botania:redstringdispenser, tile.redStringDispenser.name
+botania:redstringfertilizer, tile.redStringFertilizer.name
+botania:redstringcomparator, tile.redStringComparator.name
+botania:redstringrelay, tile.redStringRelay.name
+botania:floatingspecialflower:0, 浮空白雏菊
+botania:floatingspecialflower:0, 浮空魔力星
+botania:floatingspecialflower:0, 浮空火红莲
+botania:floatingspecialflower:0, 浮空水绣球
+botania:floatingspecialflower:0, 浮空炽玫瑰
+botania:floatingspecialflower:0, 浮空阿卡纳蔷薇
+botania:floatingspecialflower:0, 浮空咀叶花
+botania:floatingspecialflower:0, 浮空热爆花
+botania:floatingspecialflower:0, 浮空贪食花
+botania:floatingspecialflower:0, 浮空彼方兰
+botania:floatingspecialflower:0, 浮空粘球草
+botania:floatingspecialflower:0, 浮空斑斓花
+botania:floatingspecialflower:0, 浮空噬草花
+botania:floatingspecialflower:0, 浮空勿落草
+botania:floatingspecialflower:0, 浮空启命英
+botania:floatingspecialflower:0, 浮空翡翠苋
+botania:floatingspecialflower:0, 浮空娇媚之刺
+botania:floatingspecialflower:0, 浮空小娇媚之刺
+botania:floatingspecialflower:0, 浮空恐惧之刺
+botania:floatingspecialflower:0, 浮空平成之梦
+botania:floatingspecialflower:0, 浮空虎之眼
+botania:floatingspecialflower:0, 浮空异构花
+botania:floatingspecialflower:0, 浮空小异构花
+botania:floatingspecialflower:0, 浮空凝矿兰
+botania:floatingspecialflower:0, 浮空炎矿兰
+botania:floatingspecialflower:0, 浮空天降之奏
+botania:floatingspecialflower:0, 浮空冶炼火
+botania:floatingspecialflower:0, 浮空田园康乃馨
+botania:floatingspecialflower:0, 浮空小田园康乃馨
+botania:floatingspecialflower:0, 浮空漏斗花
+botania:floatingspecialflower:0, 浮空小漏斗花
+botania:floatingspecialflower:0, 浮空手掌花
+botania:floatingspecialflower:0, 浮空小手掌花
+botania:floatingspecialflower:0, 浮空束缚莓
+botania:floatingspecialflower:0, 浮空自由之翼
+botania:floatingspecialflower:0, 浮空毒风信
+botania:floatingspecialflower:0, 浮空石化草
+botania:floatingspecialflower:0, 浮空畜牧花
+botania:floatingspecialflower:0, 浮空粘土花
+botania:floatingspecialflower:0, 浮空小粘土花
+botania:floatingspecialflower:0, 浮空聚宝花
+botania:floatingspecialflower:0, 浮空扇水仙
+botania:floatingspecialflower:0, 浮空诱引莲
+botania:floatingspecialflower:0, 浮空凌空蓟
+botania:floatingspecialflower:0, 浮空气泡铃
+botania:floatingspecialflower:0, 浮空小气泡铃
+botania:floatingspecialflower:0, 浮空弱磁兰
+botania:floatingspecialflower:0, 浮空小弱磁兰
+botania:floatingspecialflower:0, 浮空消音柑
+botania:floatingspecialflower:0, 浮空Wither Flower
+botania:floatingspecialflower:0, 浮空Snow Flower
+botania:floatingspecialflower:0, 浮空Rain Flower
+botania:floatingspecialflower:0, 浮空Lightning Flower
+botania:prism, tile.prism.name
+botania:enchantedsoil, tile.enchantedSoil.name
+botania:petalblock:0, 白色花瓣块
+botania:petalblock:1, 橙色花瓣块
+botania:petalblock:2, 品红色花瓣块
+botania:petalblock:3, 淡蓝色花瓣块
+botania:petalblock:4, 黄色花瓣块
+botania:petalblock:5, 黄绿色花瓣块
+botania:petalblock:6, 粉色花瓣块
+botania:petalblock:7, 灰色花瓣块
+botania:petalblock:8, 淡灰色花瓣块
+botania:petalblock:9, 青色花瓣块
+botania:petalblock:10, 紫色花瓣块
+botania:petalblock:11, 蓝色花瓣块
+botania:petalblock:12, 棕色花瓣块
+botania:petalblock:13, 绿色花瓣块
+botania:petalblock:14, 红色花瓣块
+botania:petalblock:15, 黑色花瓣块
+botania:corporeaindex, tile.corporeaIndex.name
+botania:corporeafunnel, tile.corporeaFunnel.name
+botania:mushroom:0, 白色微光蘑菇
+botania:mushroom:1, 橙色微光蘑菇
+botania:mushroom:2, 品红色微光蘑菇
+botania:mushroom:3, 淡蓝色微光蘑菇
+botania:mushroom:4, 黄色微光蘑菇
+botania:mushroom:5, 黄绿色微光蘑菇
+botania:mushroom:6, 粉色微光蘑菇
+botania:mushroom:7, 灰色微光蘑菇
+botania:mushroom:8, 淡灰色微光蘑菇
+botania:mushroom:9, 青色微光蘑菇
+botania:mushroom:10, 紫色微光蘑菇
+botania:mushroom:11, 蓝色微光蘑菇
+botania:mushroom:12, 棕色微光蘑菇
+botania:mushroom:13, 绿色微光蘑菇
+botania:mushroom:14, 红色微光蘑菇
+botania:mushroom:15, 黑色微光蘑菇
+botania:pump, 机械流体泵管道
+botania:doubleflower1:0, 白色高神秘花
+botania:doubleflower1:1, 橙色高神秘花
+botania:doubleflower1:2, 品红色高神秘花
+botania:doubleflower1:3, 淡蓝色高神秘花
+botania:doubleflower1:4, 黄色高神秘花
+botania:doubleflower1:5, 黄绿色高神秘花
+botania:doubleflower1:6, 粉色高神秘花
+botania:doubleflower1:7, 灰色高神秘花
+botania:doubleflower2:0, 淡灰色高神秘花
+botania:doubleflower2:1, 青色高神秘花
+botania:doubleflower2:2, 紫色高神秘花
+botania:doubleflower2:3, 蓝色高神秘花
+botania:doubleflower2:4, 棕色高神秘花
+botania:doubleflower2:5, 绿色高神秘花
+botania:doubleflower2:6, 红色高神秘花
+botania:doubleflower2:7, 黑色高神秘花
+botania:blazeblock, tile.blazeBlock.name
+botania:corporeainterceptor, tile.corporeaInterceptor.name
+botania:corporeacrystalcube, tile.corporeaCrystalCube.name
+botania:incenseplate, tile.incensePlate.name
+botania:hourglass, tile.hourglass.name
+botania:ghostrail, tile.ghostRail.name
+botania:sparkchanger, tile.sparkChanger.name
+botania:root, tile.root.name
+botania:felpumpkin, tile.felPumpkin.name
+botania:cocoon, tile.cocoon.name
+botania:lightrelay:0, 微光
+botania:lightrelay:1, 探测微光
+botania:lightrelay:2, 岔路微光
+botania:lightrelay:3, 激活微光
+botania:lightlauncher, tile.lightLauncher.name
+botania:manabomb, tile.manaBomb.name
+botania:cacophoniumblock, tile.cacophoniumBlock.name
+botania:bellows, 奥术风箱
+botania:bifrostperm, tile.bifrostPerm.name
+botania:cellblock, tile.cellBlock.name
+botania:redstringinterceptor, tile.redStringInterceptor.name
+botania:corporearetainer, tile.corporeaRetainer.name
+botania:teruterubozu, tile.teruTeruBozu.name
+botania:shimmerrock, tile.shimmerrock.name
+botania:shimmerwoodplanks, tile.shimmerwoodPlanks.name
+botania:avatar, tile.avatar.name
+botania:altgrass:0, 干草地
+botania:altgrass:1, 黄金草地
+botania:altgrass:2, 鲜草草地
+botania:altgrass:3, 焦草草地
+botania:altgrass:4, 注魔草地
+botania:altgrass:5, 异变草地
+botania:animatedtorch, tile.animatedTorch.name
 botania:lexicon, item.lexicon.name
 botania:petal:0, 白色神秘花瓣
 botania:petal:1, 橙色神秘花瓣
@@ -4793,502 +5262,6 @@ botania:supercloudpendant, item.superCloudPendant.name
 botania:thirdeye, item.thirdEye.name
 botania:astrolabe, item.astrolabe.name
 botania:goddesscharm, item.goddessCharm.name
-botania:livingwood0stairs, tile.livingwood0Stairs.name
-botania:livingwood0slab:0, 活木台阶
-botania:livingwood0wall, tile.livingwood0Wall.name
-botania:livingwood1stairs, tile.livingwood1Stairs.name
-botania:livingwood1slab:0, 活木台阶
-botania:livingrock0stairs, tile.livingrock0Stairs.name
-botania:livingrock0slab:0, 活石台阶
-botania:livingrock0wall, tile.livingrock0Wall.name
-botania:livingrock1stairs, tile.livingrock1Stairs.name
-botania:livingrock1slab:0, 活石砖台阶
-botania:dreamwood0stairs, tile.dreamwood0Stairs.name
-botania:dreamwood0slab:0, 梦之木台阶
-botania:dreamwood0wall, tile.dreamwood0Wall.name
-botania:dreamwood1stairs, tile.dreamwood1Stairs.name
-botania:dreamwood1slab:0, 梦之木台阶
-botania:quartztypedark:0, 烟熏石英块
-botania:quartztypedark:1, 錾制烟熏石英块
-botania:quartztypedark:2, 竖纹烟熏石英块
-botania:quartzslabdarkhalf:0, 烟熏石英台阶
-botania:quartzstairsdark, tile.quartzStairsDark.name
-botania:quartztypemana:0, 魔力石英块
-botania:quartztypemana:1, 錾制魔力石英块
-botania:quartztypemana:2, 竖纹魔力石英块
-botania:quartzslabmanahalf:0, 魔力石英台阶
-botania:quartzstairsmana, tile.quartzStairsMana.name
-botania:quartztypeblaze:0, 烈焰石英块
-botania:quartztypeblaze:1, 錾制烈焰石英块
-botania:quartztypeblaze:2, 竖纹烈焰石英块
-botania:quartzslabblazehalf:0, 烈焰石英台阶
-botania:quartzstairsblaze, tile.quartzStairsBlaze.name
-botania:quartztypelavender:0, 熏香石英块
-botania:quartztypelavender:1, 錾制熏香石英块
-botania:quartztypelavender:2, 竖纹熏香石英块
-botania:quartzslablavenderhalf:0, 熏香石英台阶
-botania:quartzstairslavender, tile.quartzStairsLavender.name
-botania:quartztypered:0, 红色石英块
-botania:quartztypered:1, 錾制红色石英块
-botania:quartztypered:2, 竖纹红色石英块
-botania:quartzslabredhalf:0, 红色石英台阶
-botania:quartzstairsred, tile.quartzStairsRed.name
-botania:quartztypeelf:0, 精灵石英块
-botania:quartztypeelf:1, 錾制精灵石英块
-botania:quartztypeelf:2, 竖纹精灵石英块
-botania:quartzslabelfhalf:0, 精灵石英台阶
-botania:quartzstairself, tile.quartzStairsElf.name
-botania:quartztypesunny:0, 金黄石英块
-botania:quartztypesunny:1, 錾制金黄石英块
-botania:quartztypesunny:2, 竖纹金黄石英块
-botania:quartzslabsunnyhalf:0, 金黄石英台阶
-botania:quartzstairssunny, tile.quartzStairsSunny.name
-botania:biomestonea:0, 变质森林石头
-botania:biomestonea:1, 变质平原石头
-botania:biomestonea:2, 变质高山石头
-botania:biomestonea:3, 变质菌丝石头
-botania:biomestonea:4, 变质沼泽石头
-botania:biomestonea:5, 变质沙漠石头
-botania:biomestonea:6, 变质雪原石头
-botania:biomestonea:7, 变质高原石头
-botania:biomestonea:8, 变质森林圆石
-botania:biomestonea:9, 变质平原圆石
-botania:biomestonea:10, 变质高山圆石
-botania:biomestonea:11, 变质菌丝圆石
-botania:biomestonea:12, 变质沼泽圆石
-botania:biomestonea:13, 变质沙漠圆石
-botania:biomestonea:14, 变质雪原圆石
-botania:biomestonea:15, 变质高原圆石
-botania:biomestoneb:0, 变质森林石砖
-botania:biomestoneb:1, 变质平原石砖
-botania:biomestoneb:2, 变质高山石砖
-botania:biomestoneb:3, 变质菌丝石砖
-botania:biomestoneb:4, 变质沼泽石砖
-botania:biomestoneb:5, 变质沙漠石砖
-botania:biomestoneb:6, 变质雪原石砖
-botania:biomestoneb:7, 变质高原石砖
-botania:biomestoneb:8, 錾制变质森林石砖
-botania:biomestoneb:9, 錾制变质平原石砖
-botania:biomestoneb:10, 錾制变质高山石砖
-botania:biomestoneb:11, 錾制变质菌丝石砖
-botania:biomestoneb:12, 錾制变质沼泽石砖
-botania:biomestoneb:13, 錾制变质沙漠石砖
-botania:biomestoneb:14, 錾制变质雪原石砖
-botania:biomestoneb:15, 錾制变质高原石砖
-botania:pavement:0, 白色葡萄牙路面
-botania:pavement:1, 黑色葡萄牙路面
-botania:pavement:2, 蓝色葡萄牙路面
-botania:pavement:3, 红色葡萄牙路面
-botania:pavement:4, 黄色葡萄牙路面
-botania:pavement:5, 绿色葡萄牙路面
-botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
-botania:biomestonea0slab:0, 变质森林石头台阶
-botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
-botania:biomestonea1slab:0, 变质平原石头台阶
-botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
-botania:biomestonea2slab:0, 变质高山石头台阶
-botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
-botania:biomestonea3slab:0, 变质菌丝石头台阶
-botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
-botania:biomestonea4slab:0, 变质沼泽石头台阶
-botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
-botania:biomestonea5slab:0, 变质沙漠石头台阶
-botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
-botania:biomestonea6slab:0, 变质雪原石头台阶
-botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
-botania:biomestonea7slab:0, 变质高原石头台阶
-botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
-botania:biomestonea8slab:0, 变质森林圆石台阶
-botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
-botania:biomestonea9slab:0, 变质平原圆石台阶
-botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
-botania:biomestonea10slab:0, 变质高山圆石台阶
-botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
-botania:biomestonea11slab:0, 变质菌丝圆石台阶
-botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
-botania:biomestonea12slab:0, 变质沼泽圆石台阶
-botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
-botania:biomestonea13slab:0, 变质沙漠圆石台阶
-botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
-botania:biomestonea14slab:0, 变质雪原圆石台阶
-botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
-botania:biomestonea15slab:0, 变质高原圆石台阶
-botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
-botania:biomestoneb0slab:0, 变质森林石砖台阶
-botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
-botania:biomestoneb1slab:0, 变质平原石砖台阶
-botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
-botania:biomestoneb2slab:0, 变质高山石砖台阶
-botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
-botania:biomestoneb3slab:0, 变质菌丝石砖台阶
-botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
-botania:biomestoneb4slab:0, 变质沼泽石砖台阶
-botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
-botania:biomestoneb5slab:0, 变质沙漠石砖台阶
-botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
-botania:biomestoneb6slab:0, 变质雪原石砖台阶
-botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
-botania:biomestoneb7slab:0, 变质高原石砖台阶
-botania:biomestonea0wall:0, 变质森林石墙
-botania:biomestonea0wall:1, 变质平原石墙
-botania:biomestonea0wall:2, 变质高山石墙
-botania:biomestonea0wall:3, 变质菌丝石墙
-botania:biomestonea0wall:4, 变质沼泽石墙
-botania:biomestonea0wall:5, 变质沙漠石墙
-botania:biomestonea0wall:6, 变质雪原石墙
-botania:biomestonea0wall:7, 变质高原石墙
-botania:pavement0stairs, tile.pavement0Stairs.name
-botania:pavement0slab:0, 白色葡萄牙台阶
-botania:pavement1stairs, tile.pavement1Stairs.name
-botania:pavement1slab:0, 黑色葡萄牙台阶
-botania:pavement2stairs, tile.pavement2Stairs.name
-botania:pavement2slab:0, 蓝色葡萄牙台阶
-botania:pavement3stairs, tile.pavement3Stairs.name
-botania:pavement3slab:0, 红色葡萄牙台阶
-botania:pavement4stairs, tile.pavement4Stairs.name
-botania:pavement4slab:0, 黄色葡萄牙台阶
-botania:pavement5stairs, tile.pavement5Stairs.name
-botania:pavement5slab:0, 绿色葡萄牙台阶
-botania:shimmerrock0slab:0, 微光石台阶
-botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
-botania:shimmerwoodplanks0slab:0, 微光木板台阶
-botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
-botania:managlasspane, tile.manaGlassPane.name
-botania:elfglasspane, tile.elfGlassPane.name
-botania:bifrostpermpane, tile.bifrostPermPane.name
-botania:flower:0, 白色神秘花
-botania:flower:1, 橙色神秘花
-botania:flower:2, 品红色神秘花
-botania:flower:3, 淡蓝色神秘花
-botania:flower:4, 黄色神秘花
-botania:flower:5, 黄绿色神秘花
-botania:flower:6, 粉色神秘花
-botania:flower:7, 灰色神秘花
-botania:flower:8, 淡灰色神秘花
-botania:flower:9, 青色神秘花
-botania:flower:10, 紫色神秘花
-botania:flower:11, 蓝色神秘花
-botania:flower:12, 棕色神秘花
-botania:flower:13, 绿色神秘花
-botania:flower:14, 红色神秘花
-botania:flower:15, 黑色神秘花
-botania:altar:0, 花药台
-botania:altar:1, 森林花药台
-botania:altar:2, 平原花药台
-botania:altar:3, 高山花药台
-botania:altar:4, 菌丝花药台
-botania:altar:5, 沼泽花药台
-botania:altar:6, 沙漠花药台
-botania:altar:7, 雪原花药台
-botania:altar:8, 高原花药台
-botania:livingrock:0, 活石
-botania:livingrock:1, 活石砖
-botania:livingrock:2, 苔活石砖
-botania:livingrock:3, 裂活石砖
-botania:livingrock:4, 框边活石砖
-botania:livingwood:0, 活木
-botania:livingwood:1, 活木板
-botania:livingwood:2, 苔活木板
-botania:livingwood:3, 框边活木板
-botania:livingwood:4, 框纹活木板
-botania:livingwood:5, 微光活木
-botania:specialflower:0, 白雏菊
-botania:specialflower:0, 魔力星
-botania:specialflower:0, 火红莲
-botania:specialflower:0, 水绣球
-botania:specialflower:0, 炽玫瑰
-botania:specialflower:0, 阿卡纳蔷薇
-botania:specialflower:0, 咀叶花
-botania:specialflower:0, 热爆花
-botania:specialflower:0, 贪食花
-botania:specialflower:0, 彼方兰
-botania:specialflower:0, 粘球草
-botania:specialflower:0, 斑斓花
-botania:specialflower:0, 噬草花
-botania:specialflower:0, 勿落草
-botania:specialflower:0, 启命英
-botania:specialflower:0, 翡翠苋
-botania:specialflower:0, 娇媚之刺
-botania:specialflower:0, 小娇媚之刺
-botania:specialflower:0, 恐惧之刺
-botania:specialflower:0, 平成之梦
-botania:specialflower:0, 虎之眼
-botania:specialflower:0, 异构花
-botania:specialflower:0, 小异构花
-botania:specialflower:0, 凝矿兰
-botania:specialflower:0, 炎矿兰
-botania:specialflower:0, 天降之奏
-botania:specialflower:0, 冶炼火
-botania:specialflower:0, 田园康乃馨
-botania:specialflower:0, 小田园康乃馨
-botania:specialflower:0, 漏斗花
-botania:specialflower:0, 小漏斗花
-botania:specialflower:0, 手掌花
-botania:specialflower:0, 小手掌花
-botania:specialflower:0, 束缚莓
-botania:specialflower:0, 自由之翼
-botania:specialflower:0, 毒风信
-botania:specialflower:0, 石化草
-botania:specialflower:0, 畜牧花
-botania:specialflower:0, 粘土花
-botania:specialflower:0, 小粘土花
-botania:specialflower:0, 聚宝花
-botania:specialflower:0, 扇水仙
-botania:specialflower:0, 诱引莲
-botania:specialflower:0, 凌空蓟
-botania:specialflower:0, 气泡铃
-botania:specialflower:0, 小气泡铃
-botania:specialflower:0, 弱磁兰
-botania:specialflower:0, 小弱磁兰
-botania:specialflower:0, 消音柑
-botania:specialflower:0, Lightning Flower
-botania:specialflower:0, Snow Flower
-botania:specialflower:0, Wither Flower
-botania:specialflower:0, Rain Flower
-botania:spreader:0, 魔力发射器
-botania:spreader:1, 魔力发射器（红石）
-botania:spreader:2, 精灵魔力发射器
-botania:spreader:3, 盖亚魔力发射器
-botania:pool:0, 魔力池
-botania:pool:2, 稀释魔力池
-botania:pool:3, 神话魔力池
-botania:pool:1, 永恒魔力池
-botania:runealtar, tile.runeAltar.name
-botania:pylon:0, 魔法水晶
-botania:pylon:1, 自然水晶
-botania:pylon:2, 盖亚水晶
-botania:pistonrelay, tile.pistonRelay.name
-botania:distributor, tile.distributor.name
-botania:manavoid, tile.manaVoid.name
-botania:manadetector, tile.manaDetector.name
-botania:enchanter, 附魔器
-botania:turntable, tile.turntable.name
-botania:tinyplanetblock, tile.tinyPlanetBlock.name
-botania:alchemycatalyst, tile.alchemyCatalyst.name
-botania:opencrate:0, 花格箱
-botania:opencrate:1, 机巧箱
-botania:foresteye, tile.forestEye.name
-botania:storage:0, 魔力钢块
-botania:storage:1, 泰拉钢块
-botania:storage:2, 源质钢块
-botania:storage:3, 魔力钻石块
-botania:storage:4, 龙石块
-botania:forestdrum:0, 狂野之鼓
-botania:forestdrum:1, 收集之鼓
-botania:forestdrum:2, 林冠之鼓
-botania:shinyflower:0, 白色荧光花
-botania:shinyflower:1, 橙色荧光花
-botania:shinyflower:2, 品红色荧光花
-botania:shinyflower:3, 淡蓝色荧光花
-botania:shinyflower:4, 黄色荧光花
-botania:shinyflower:5, 黄绿色荧光花
-botania:shinyflower:6, 粉色荧光花
-botania:shinyflower:7, 灰色荧光花
-botania:shinyflower:8, 淡灰色荧光花
-botania:shinyflower:9, 青色荧光花
-botania:shinyflower:10, 紫色荧光花
-botania:shinyflower:11, 蓝色荧光花
-botania:shinyflower:12, 棕色荧光花
-botania:shinyflower:13, 绿色荧光花
-botania:shinyflower:14, 红色荧光花
-botania:shinyflower:15, 黑色荧光花
-botania:platform:0, 奥秘平台
-botania:platform:1, 幻影平台
-botania:platform:2, 不破平台
-botania:alfheimportal, tile.alfheimPortal.name
-botania:dreamwood:0, 梦之木
-botania:dreamwood:1, 梦之木板
-botania:dreamwood:2, 苔梦之木板
-botania:dreamwood:3, 框边梦之木板
-botania:dreamwood:4, 框纹梦之木板
-botania:dreamwood:5, 微光梦之木
-botania:conjurationcatalyst, tile.conjurationCatalyst.name
-botania:bifrost, tile.bifrost.name
-botania:miniisland:0, 白色浮空花
-botania:miniisland:1, 橙色浮空花
-botania:miniisland:2, 品红色浮空花
-botania:miniisland:3, 淡蓝色浮空花
-botania:miniisland:4, 黄色浮空花
-botania:miniisland:5, 黄绿色浮空花
-botania:miniisland:6, 粉色浮空花
-botania:miniisland:7, 灰色浮空花
-botania:miniisland:8, 淡灰色浮空花
-botania:miniisland:9, 青色浮空花
-botania:miniisland:10, 紫色浮空花
-botania:miniisland:11, 蓝色浮空花
-botania:miniisland:12, 棕色浮空花
-botania:miniisland:13, 绿色浮空花
-botania:miniisland:14, 红色浮空花
-botania:miniisland:15, 黑色浮空花
-botania:tinypotato, tile.tinyPotato.name
-botania:spawnerclaw, tile.spawnerClaw.name
-botania:custombrick:0, 阿兹勒赫瓷砖
-botania:custombrick:1, 阿兹勒赫瓷砖
-botania:custombrick:2, 阿兹勒赫瓷砖
-botania:custombrick:3, 阿兹勒赫瓷砖
-botania:custombrick:4, 阿兹勒赫瓷砖
-botania:custombrick:5, 阿兹勒赫瓷砖
-botania:custombrick:6, 阿兹勒赫瓷砖
-botania:custombrick:7, 阿兹勒赫瓷砖
-botania:custombrick:8, 阿兹勒赫瓷砖
-botania:custombrick:9, 阿兹勒赫瓷砖
-botania:custombrick:10, 阿兹勒赫瓷砖
-botania:custombrick:11, 阿兹勒赫瓷砖
-botania:custombrick:12, 阿兹勒赫瓷砖
-botania:custombrick:13, 阿兹勒赫瓷砖
-botania:custombrick:14, 阿兹勒赫瓷砖
-botania:custombrick:15, 阿兹勒赫瓷砖
-botania:endereyeblock, tile.enderEyeBlock.name
-botania:starfield, tile.starfield.name
-botania:rfgenerator, tile.rfGenerator.name
-botania:elfglass, tile.elfGlass.name
-botania:brewery, tile.brewery.name
-botania:managlass, tile.manaGlass.name
-botania:terraplate, tile.terraPlate.name
-botania:redstringcontainer, tile.redStringContainer.name
-botania:redstringdispenser, tile.redStringDispenser.name
-botania:redstringfertilizer, tile.redStringFertilizer.name
-botania:redstringcomparator, tile.redStringComparator.name
-botania:redstringrelay, tile.redStringRelay.name
-botania:floatingspecialflower:0, 浮空白雏菊
-botania:floatingspecialflower:0, 浮空魔力星
-botania:floatingspecialflower:0, 浮空火红莲
-botania:floatingspecialflower:0, 浮空水绣球
-botania:floatingspecialflower:0, 浮空炽玫瑰
-botania:floatingspecialflower:0, 浮空阿卡纳蔷薇
-botania:floatingspecialflower:0, 浮空咀叶花
-botania:floatingspecialflower:0, 浮空热爆花
-botania:floatingspecialflower:0, 浮空贪食花
-botania:floatingspecialflower:0, 浮空彼方兰
-botania:floatingspecialflower:0, 浮空粘球草
-botania:floatingspecialflower:0, 浮空斑斓花
-botania:floatingspecialflower:0, 浮空噬草花
-botania:floatingspecialflower:0, 浮空勿落草
-botania:floatingspecialflower:0, 浮空启命英
-botania:floatingspecialflower:0, 浮空翡翠苋
-botania:floatingspecialflower:0, 浮空娇媚之刺
-botania:floatingspecialflower:0, 浮空小娇媚之刺
-botania:floatingspecialflower:0, 浮空恐惧之刺
-botania:floatingspecialflower:0, 浮空平成之梦
-botania:floatingspecialflower:0, 浮空虎之眼
-botania:floatingspecialflower:0, 浮空异构花
-botania:floatingspecialflower:0, 浮空小异构花
-botania:floatingspecialflower:0, 浮空凝矿兰
-botania:floatingspecialflower:0, 浮空炎矿兰
-botania:floatingspecialflower:0, 浮空天降之奏
-botania:floatingspecialflower:0, 浮空冶炼火
-botania:floatingspecialflower:0, 浮空田园康乃馨
-botania:floatingspecialflower:0, 浮空小田园康乃馨
-botania:floatingspecialflower:0, 浮空漏斗花
-botania:floatingspecialflower:0, 浮空小漏斗花
-botania:floatingspecialflower:0, 浮空手掌花
-botania:floatingspecialflower:0, 浮空小手掌花
-botania:floatingspecialflower:0, 浮空束缚莓
-botania:floatingspecialflower:0, 浮空自由之翼
-botania:floatingspecialflower:0, 浮空毒风信
-botania:floatingspecialflower:0, 浮空石化草
-botania:floatingspecialflower:0, 浮空畜牧花
-botania:floatingspecialflower:0, 浮空粘土花
-botania:floatingspecialflower:0, 浮空小粘土花
-botania:floatingspecialflower:0, 浮空聚宝花
-botania:floatingspecialflower:0, 浮空扇水仙
-botania:floatingspecialflower:0, 浮空诱引莲
-botania:floatingspecialflower:0, 浮空凌空蓟
-botania:floatingspecialflower:0, 浮空气泡铃
-botania:floatingspecialflower:0, 浮空小气泡铃
-botania:floatingspecialflower:0, 浮空弱磁兰
-botania:floatingspecialflower:0, 浮空小弱磁兰
-botania:floatingspecialflower:0, 浮空消音柑
-botania:floatingspecialflower:0, 浮空Lightning Flower
-botania:floatingspecialflower:0, 浮空Snow Flower
-botania:floatingspecialflower:0, 浮空Wither Flower
-botania:floatingspecialflower:0, 浮空Rain Flower
-botania:prism, tile.prism.name
-botania:enchantedsoil, tile.enchantedSoil.name
-botania:petalblock:0, 白色花瓣块
-botania:petalblock:1, 橙色花瓣块
-botania:petalblock:2, 品红色花瓣块
-botania:petalblock:3, 淡蓝色花瓣块
-botania:petalblock:4, 黄色花瓣块
-botania:petalblock:5, 黄绿色花瓣块
-botania:petalblock:6, 粉色花瓣块
-botania:petalblock:7, 灰色花瓣块
-botania:petalblock:8, 淡灰色花瓣块
-botania:petalblock:9, 青色花瓣块
-botania:petalblock:10, 紫色花瓣块
-botania:petalblock:11, 蓝色花瓣块
-botania:petalblock:12, 棕色花瓣块
-botania:petalblock:13, 绿色花瓣块
-botania:petalblock:14, 红色花瓣块
-botania:petalblock:15, 黑色花瓣块
-botania:corporeaindex, tile.corporeaIndex.name
-botania:corporeafunnel, tile.corporeaFunnel.name
-botania:mushroom:0, 白色微光蘑菇
-botania:mushroom:1, 橙色微光蘑菇
-botania:mushroom:2, 品红色微光蘑菇
-botania:mushroom:3, 淡蓝色微光蘑菇
-botania:mushroom:4, 黄色微光蘑菇
-botania:mushroom:5, 黄绿色微光蘑菇
-botania:mushroom:6, 粉色微光蘑菇
-botania:mushroom:7, 灰色微光蘑菇
-botania:mushroom:8, 淡灰色微光蘑菇
-botania:mushroom:9, 青色微光蘑菇
-botania:mushroom:10, 紫色微光蘑菇
-botania:mushroom:11, 蓝色微光蘑菇
-botania:mushroom:12, 棕色微光蘑菇
-botania:mushroom:13, 绿色微光蘑菇
-botania:mushroom:14, 红色微光蘑菇
-botania:mushroom:15, 黑色微光蘑菇
-botania:pump, 机械流体泵管道
-botania:doubleflower1:0, 白色高神秘花
-botania:doubleflower1:1, 橙色高神秘花
-botania:doubleflower1:2, 品红色高神秘花
-botania:doubleflower1:3, 淡蓝色高神秘花
-botania:doubleflower1:4, 黄色高神秘花
-botania:doubleflower1:5, 黄绿色高神秘花
-botania:doubleflower1:6, 粉色高神秘花
-botania:doubleflower1:7, 灰色高神秘花
-botania:doubleflower2:0, 淡灰色高神秘花
-botania:doubleflower2:1, 青色高神秘花
-botania:doubleflower2:2, 紫色高神秘花
-botania:doubleflower2:3, 蓝色高神秘花
-botania:doubleflower2:4, 棕色高神秘花
-botania:doubleflower2:5, 绿色高神秘花
-botania:doubleflower2:6, 红色高神秘花
-botania:doubleflower2:7, 黑色高神秘花
-botania:blazeblock, tile.blazeBlock.name
-botania:corporeainterceptor, tile.corporeaInterceptor.name
-botania:corporeacrystalcube, tile.corporeaCrystalCube.name
-botania:incenseplate, tile.incensePlate.name
-botania:hourglass, tile.hourglass.name
-botania:ghostrail, tile.ghostRail.name
-botania:sparkchanger, tile.sparkChanger.name
-botania:root, tile.root.name
-botania:felpumpkin, tile.felPumpkin.name
-botania:cocoon, tile.cocoon.name
-botania:lightrelay:0, 微光
-botania:lightrelay:1, 探测微光
-botania:lightrelay:2, 岔路微光
-botania:lightrelay:3, 激活微光
-botania:lightlauncher, tile.lightLauncher.name
-botania:manabomb, tile.manaBomb.name
-botania:cacophoniumblock, tile.cacophoniumBlock.name
-botania:bellows, 奥术风箱
-botania:bifrostperm, tile.bifrostPerm.name
-botania:cellblock, tile.cellBlock.name
-botania:redstringinterceptor, tile.redStringInterceptor.name
-botania:corporearetainer, tile.corporeaRetainer.name
-botania:teruterubozu, tile.teruTeruBozu.name
-botania:shimmerrock, tile.shimmerrock.name
-botania:shimmerwoodplanks, tile.shimmerwoodPlanks.name
-botania:avatar, tile.avatar.name
-botania:altgrass:0, 干草地
-botania:altgrass:1, 黄金草地
-botania:altgrass:2, 鲜草草地
-botania:altgrass:3, 焦草草地
-botania:altgrass:4, 注魔草地
-botania:altgrass:5, 异变草地
-botania:animatedtorch, tile.animatedTorch.name
 aiotbotania:livingwoodsword, Livingwood Sword
 aiotbotania:livingwoodaxe, Livingwood Axe
 aiotbotania:livingwoodpickaxe, Livingwood Pickaxe
@@ -5305,6 +5278,998 @@ aiotbotania:manasteelhoe, 魔钢锄
 aiotbotania:manasteelaiot, 魔钢全能工具
 aiotbotania:elementiumhoe, 源质钢锄
 aiotbotania:elementiumaiot, 源质钢全能工具
+aoa3:amethyst_sword, 紫晶剑
+aoa3:baron_sword, 爵士剑
+aoa3:bloodfury, 血之怒
+aoa3:bloodstone_sword, 血石剑
+aoa3:candlefire_sword, 炎烛剑
+aoa3:caramel_carver, 焦糖剑
+aoa3:coralstorm_sword, 珊瑚剑
+aoa3:creepified_sword, 蠕变剑
+aoa3:crystallite_sword, 微晶剑
+aoa3:emberstone_sword, 余烬剑
+aoa3:explochron_sword, 爆破剑
+aoa3:fireborne_sword, 超炎剑
+aoa3:guardians_sword, 监护者之剑
+aoa3:harvester_sword, 收割剑
+aoa3:holy_sword, 圣剑
+aoa3:illusion_sword, 幻觉剑
+aoa3:jade_sword, 翡翠剑
+aoa3:legbone_sword, 腿骨剑
+aoa3:lights_way, 光明之路
+aoa3:limonite_sword, 褐铁剑
+aoa3:nethengeic_sword, 纳德吉克剑
+aoa3:rockbasher_sword, 岩击剑
+aoa3:rock_pick_sword, 岩神剑
+aoa3:rosidian_sword, 伊恩剑
+aoa3:rosite_sword, 硫铜锑剑
+aoa3:runic_sword, 符文剑
+aoa3:sapphire_sword, 蓝宝石剑
+aoa3:shadow_sword, 暗影剑
+aoa3:shroomus_sword, 真菌剑
+aoa3:skeletal_sword, 骷髅剑
+aoa3:supremacy_sword, 紫晶槌
+aoa3:sweet_sword, 糖果剑
+aoa3:troll_basher_axe, 巨怪爆裂斧
+aoa3:ultraflame, 烈焰剑
+aoa3:void_sword, 虚空剑
+aoa3:vulcammer_sword, 浊流剑
+aoa3:baron_greatblade, 爵士巨剑
+aoa3:candy_blade, 糖果巨剑
+aoa3:coral_greatblade, 珊瑚巨剑
+aoa3:cotton_crusher, 棉花破碎机
+aoa3:creepoid_greatblade, 蠕变巨剑
+aoa3:crystal_greatblade, 水晶巨剑
+aoa3:erebon_scythe, 埃瑞本之镰
+aoa3:gods_greatblade, 神之巨剑
+aoa3:goofy_greatblade, 愚弄巨剑
+aoa3:grandsword, 巨剑
+aoa3:haunted_greatblade, 困扰巨剑
+aoa3:knights_guard, 骑士巨剑
+aoa3:lelyetian_greatblade, 赫尔维蒂巨剑
+aoa3:lunar_greatblade, 月球巨剑
+aoa3:luxon_scythe, 卢克森之镰
+aoa3:lyonic_greatblade, 愤怒巨剑
+aoa3:millenium_greatblade, 千年巨剑
+aoa3:noxious_greatblade, 剧毒巨剑
+aoa3:pluton_scythe, 普洛顿之镰
+aoa3:primordial_greatblade, 原始巨剑
+aoa3:rosidian_greatblade, 伊恩巨剑
+aoa3:royal_greatblade, 皇家巨剑
+aoa3:runic_greatblade, 符文巨剑
+aoa3:selyan_scythe, 塞里安之镰
+aoa3:shroomic_greatblade, 蘑菇巨剑
+aoa3:shyre_sword, 塞尔瑞巨剑
+aoa3:subterranean_greatblade, 地下巨剑
+aoa3:tidal_greatblade, 潮汐巨剑
+aoa3:underworld_greatblade, 冥界巨剑
+aoa3:crystal_maul, 水晶槌
+aoa3:horizon_maul, 地平槌
+aoa3:coralstone_maul, 珊瑚槌
+aoa3:abominator, 厌恶者
+aoa3:apoco_assault_rifle, 末世突击步枪
+aoa3:apoco_rifle, 末世步枪
+aoa3:aqua_magnum, 水之马格南
+aoa3:artifact, 伪影
+aoa3:baronator, 爵士爆破
+aoa3:bayonette_rifle, 刺刀步枪
+aoa3:big_top, 超越
+aoa3:blood_iron, 血之铁器
+aoa3:chain_wrecker, 锁链肇事者
+aoa3:chilli_chugger, 辣椒枪
+aoa3:clownershot, 小丑步枪
+aoa3:construct, 概念
+aoa3:coral_clogger, 珊瑚枪
+aoa3:core_rifle, 原始步枪
+aoa3:crystal_carver, 水晶雕刻机
+aoa3:cyclone, 旋风
+aoa3:darkener, 暗黑步枪
+aoa3:dart_gun, 投掷枪
+aoa3:destruction_rifle, 毁灭电磁枪
+aoa3:discharge_rifle, 雷暴步枪
+aoa3:draco, 天龙座
+aoa3:dragilator, 爆炎
+aoa3:dustometer, 机械爆破枪
+aoa3:echo_gull, 回音海鸥
+aoa3:electinator, 疾雷
+aoa3:flame_wrecker, 火焰肇事者
+aoa3:flaming_fury, 熊熊怒火
+aoa3:floro_rifle, 花之步枪
+aoa3:flowers_fury, 花之愤怒
+aoa3:frosticator, 阻碍
+aoa3:gardener, 园丁
+aoa3:gauge_rifle, 量规步枪
+aoa3:germinator, 催生者
+aoa3:golden_fury, 黄金怒火
+aoa3:happy_haunter, 快乐的幽魂
+aoa3:haunter_rifle, 幽魂枪
+aoa3:heat_wave, 高温枪
+aoa3:hiver, 招蜂器
+aoa3:hot_shot, 炎热枪
+aoa3:hunters_rifle, 猎人步枪
+aoa3:iominator, 绿炎
+aoa3:ion_revolver, 离子枪
+aoa3:iro_rifle, 黄金步枪
+aoa3:krilinator, 暴风
+aoa3:light_iron, 闪耀铁器
+aoa3:lunar_assault_rifle, 月球突击步枪
+aoa3:mechanical_assault_rifle, 机械突击步枪
+aoa3:megagun, 巨型枪
+aoa3:miasma, 瘴气
+aoa3:minigun, MiNi枪
+aoa3:mint_magnum, 薄荷枪
+aoa3:mk, M-K
+aoa3:mk_fung, MK-锋
+aoa3:nethenette_rifle, 下界步枪
+aoa3:nethengeic_slugger, 纳德吉克巨炮
+aoa3:overshot, 过冲
+aoa3:precasian_slugger, 谨慎电击者
+aoa3:predator, 掠夺者
+aoa3:predigun, 预测枪
+aoa3:pulsator, 震动器
+aoa3:purity_rifle, 纯净电磁枪
+aoa3:rocker_rifle, 摇臂式步枪
+aoa3:roulette, 左轮
+aoa3:shoe_flinger, 旧靴子
+aoa3:skullette, 颅骨左轮
+aoa3:skullifact, 颅骨步枪
+aoa3:spectacle, 奇幻
+aoa3:spine_gun, 脊柱枪
+aoa3:squad_gun, 小队机枪
+aoa3:stampede, 牛仔手枪
+aoa3:stormer, 暴风雨
+aoa3:sublimus, 断离
+aoa3:tiger_tommy, 虎皮汤姆逊
+aoa3:tommy, 汤姆逊冲锋枪
+aoa3:vile_vanquisher, 邪恶征服者
+aoa3:wart_gun, 下界疣枪
+aoa3:wrecker, 肇事者
+aoa3:abyssro, 深渊
+aoa3:amplifier, 破灭者
+aoa3:blast_barrel, 爆破筒
+aoa3:blue_barrel, 蓝管
+aoa3:boulder, 巨砾
+aoa3:brown_blaster, 棕色冲击者
+aoa3:demolisher, 破坏者
+aoa3:destruction_shotgun, 毁灭镭射枪
+aoa3:discharge_shotgun, 爆炸霰弹
+aoa3:gimmick, 暗机关
+aoa3:ginger_blaster, 姜炮
+aoa3:long_shot, 长杆猎枪
+aoa3:mechyro, 双管猎枪
+aoa3:purity_shotgun, 纯净镭射枪
+aoa3:purple_punisher, 紫色惩罚者
+aoa3:red_rocket, 红色火箭
+aoa3:vivo, 威武
+aoa3:baron_ssr, 爵士SSR
+aoa3:bayonette_sr, 刺刀SR
+aoa3:bolt_rifle, 螺栓狙击
+aoa3:camo_rifle, 迷彩狙击
+aoa3:clown_cracker, 玩具裂解
+aoa3:clownimator, 小丑助推器
+aoa3:crystaneer, 水晶狙击
+aoa3:dark_beast, 暗黑野兽
+aoa3:deadlock, 致命枷锁
+aoa3:decimator, 灭绝
+aoa3:discharge_sniper, 雷暴狙击
+aoa3:dual_sight, 双重视野
+aoa3:duster, 喷粉机
+aoa3:floro500, 花-500
+aoa3:head_hunter, 猎人之首
+aoa3:hive_cracker, 蜂巢裂解
+aoa3:ka500, 卡-500
+aoa3:mark_maker, 马克制造者
+aoa3:mineral, 矿物
+aoa3:monster, 怪物
+aoa3:moon_maker, 月亮制造者
+aoa3:rosid_rifle, 蔷薇狙击
+aoa3:sabbath, 安息
+aoa3:sludge_sniper, 污泥狙击
+aoa3:sweet_tooth, 糖果之牙
+aoa3:terminator, 终结者
+aoa3:viper1, 蝰蛇-1
+aoa3:ancient_bomber, 远古爆裂者
+aoa3:ancient_discharger, 远古雷暴
+aoa3:aqua_cannon, 水之加农炮
+aoa3:balloon_bomber, 气球轰炸机
+aoa3:big_blast, 巨炮
+aoa3:blast_cannon, 爆破毁灭者
+aoa3:blissful_blast, 极乐的冲击波
+aoa3:bomb_launcher, 打击者
+aoa3:boom_boom, 天启爆炸
+aoa3:boom_cannon, 爆裂加农
+aoa3:boulder_bomber, 巨石轰炸机
+aoa3:bozo_blaster, 傻瓜冲击波
+aoa3:bulb_cannon, 凋灵加农炮
+aoa3:carrot_cannon, 胡萝卜炮
+aoa3:clown_cannon, 玩具炮
+aoa3:clowno_pulse, 小丑巨炮
+aoa3:coral_cannon, 珊瑚加农炮
+aoa3:discharge_cannon, 雷暴加农
+aoa3:energy_cannon, 能量加农炮
+aoa3:erebon_stickler, 埃瑞本之触
+aoa3:floro_rpg, 花之RPG
+aoa3:flower_cannon, 花之加农炮
+aoa3:fungal_cannon, 真菌加农炮
+aoa3:ghast_blaster, 爆破恐惧
+aoa3:ghoul_cannon, 恐惧加农炮
+aoa3:giga_cannon, 千兆加农
+aoa3:golder_bomber, 黄金轰炸机
+aoa3:hive_blaster, 蜂巢冲击波
+aoa3:hive_howitzer, 蜂巢榴弹炮
+aoa3:iro_cannon, 铁炮
+aoa3:jack_funger, 杰克加农炮
+aoa3:jack_rocker, 摇滚杰克
+aoa3:luxon_stickler, 卢克森之触
+aoa3:mecha_cannon, 机甲加农炮
+aoa3:mini_cannon, MiNi加农
+aoa3:missile_maker, 导弹制造者
+aoa3:moon_cannon, 月亮炮
+aoa3:pluton_stickler, 普洛顿之触
+aoa3:predatorian_blaster, 爆破恐惧王
+aoa3:pulse_cannon, 脉冲炮
+aoa3:rpg, RPG
+aoa3:selyan_stickler, 塞里安之触
+aoa3:shadow_blaster, 暗影冲击者
+aoa3:shyre_blaster, 塞尔瑞冲击波
+aoa3:smile_blaster, 微笑的冲击波
+aoa3:super_cannon, 超加农
+aoa3:ultra_cannon, 极限加农
+aoa3:vox_cannon, 未知加农炮
+aoa3:water_balloon_bomber, 水球轰炸机
+aoa3:wither_cannon, 凋灵加农
+aoa3:grenade, 手榴弹
+aoa3:slice_star, 螺旋镖
+aoa3:vulkram, 治疗环刃
+aoa3:chakram, 剧毒环刃
+aoa3:runic_bomb, 符文炸弹
+aoa3:goo_ball, 粘粘球
+aoa3:hellfire, AGM-114地域火反坦克导弹
+aoa3:vulcane, 浊流之杖
+aoa3:battle_vulcane, 浊流：战斗
+aoa3:equality_vulcane, 浊流：生命
+aoa3:fire_vulcane, 浊流：火焰
+aoa3:impairment_vulcane, 浊流：仇恨
+aoa3:poison_vulcane, 浊流：剧毒
+aoa3:power_vulcane, 浊流：力量
+aoa3:wither_vulcane, 浊流：凋灵
+aoa3:alacrity_bow, 敏捷之弓
+aoa3:ancient_bow, 远古之弓
+aoa3:atlantic_bow, 冰冻弓
+aoa3:baron_bow, 爵士弓
+aoa3:boreic_bow, 命运弓
+aoa3:daybreaker_bow, 破晓弓
+aoa3:deep_bow, 深层弓
+aoa3:explosive_bow, 爆裂弓
+aoa3:haunted_bow, 困扰弓
+aoa3:ice_bow, 冰之弓
+aoa3:infernal_bow, 下界弓
+aoa3:justice_bow, 正义之弓
+aoa3:lunar_bow, 月球弓
+aoa3:mecha_bow, 机甲弓
+aoa3:nightmare_bow, 噩梦之弓
+aoa3:poison_bow, 剧毒之弓
+aoa3:predatious_bow, 自然弓
+aoa3:primordial_bow, 原始弓
+aoa3:rosidian_bow, 伊恩弓
+aoa3:runic_bow, 符文之弓
+aoa3:screamer_bow, 尖叫之弓
+aoa3:shyregem_bow, 塞尔瑞宝石弓
+aoa3:skeletal_bow, 骷髅之弓
+aoa3:skydriver_bow, 酸性弓
+aoa3:slingshot, Y型弹弓
+aoa3:soulfire_bow, 魂焰之弓
+aoa3:spectral_bow, 光谱弓
+aoa3:speed_bow, 极速弓
+aoa3:sunshine_bow, 日照弓
+aoa3:toxin_bow, 毒素弓
+aoa3:void_bow, 虚空之弓
+aoa3:weaken_bow, 削弱之弓
+aoa3:wither_bow, 凋灵之弓
+aoa3:coral_archergun, 珊瑚弩
+aoa3:lunar_archergun, 月球弩
+aoa3:mecha_archergun, 机甲弩
+aoa3:pyro_archergun, 火焰弩
+aoa3:rosidian_archergun, 伊恩弩
+aoa3:skeletal_archergun, 骷髅弩
+aoa3:spectral_archergun, 光谱弩
+aoa3:trolls_archergun, 巨怪弩
+aoa3:viral_archergun, 病毒弩
+aoa3:aquatic_staff, 水能法杖
+aoa3:atlantic_staff, 冰冻法杖
+aoa3:baron_staff, 爵士法杖
+aoa3:candy_staff, 糖果法杖
+aoa3:celestial_staff, 天朝法杖
+aoa3:concussion_staff, 震荡法杖
+aoa3:coral_staff, 珊瑚之杖
+aoa3:crystal_staff, 晶体法杖
+aoa3:crystik_staff, 结晶法杖
+aoa3:cryston_staff, 水晶法杖
+aoa3:destruction_staff, 毁灭法杖
+aoa3:ember_staff, 余烬之杖
+aoa3:everfight_staff, 战斗光环法杖
+aoa3:evermight_staff, 力量光环法杖
+aoa3:fire_staff, 火焰法杖
+aoa3:firefly_staff, 萤火虫法杖
+aoa3:firestorm_staff, 烈焰风暴
+aoa3:fungal_staff, 真菌法杖
+aoa3:ghoul_staff, 恐惧法杖
+aoa3:haunters_staff, 幽魂法杖
+aoa3:hive_staff, 蜂巢法杖
+aoa3:joker_staff, 玩具法杖
+aoa3:kaiyu_staff, 开宇之杖
+aoa3:lightning_staff, 闪电之杖
+aoa3:lightshine, 光芒法杖
+aoa3:lunar_staff, 月球法杖
+aoa3:lyonic_staff, 愤怒法杖
+aoa3:mecha_staff, 机甲法杖
+aoa3:meteor_staff, 流星法杖
+aoa3:moonlight_staff, 月光法杖
+aoa3:nature_staff, 自然法杖
+aoa3:nightmare_staff, 噩梦之杖
+aoa3:noxious_staff, 毒性法杖
+aoa3:phantom_staff, 幻象之杖
+aoa3:poison_staff, 剧毒法杖
+aoa3:power_staff, 力量法杖
+aoa3:primordial_staff, 原始法杖
+aoa3:reef_staff, 暗礁法杖
+aoa3:rejuvenation_staff, 回春之杖
+aoa3:rosidian_staff, 伊恩法杖
+aoa3:runic_staff, 符文之杖
+aoa3:shadowlord_staff, 暗影领主魔杖
+aoa3:show_staff, 狂欢法杖
+aoa3:shyre_staff, 塞尔瑞法杖
+aoa3:sky_staff, 天空法杖
+aoa3:striker_staff, 杀戮法杖
+aoa3:sun_staff, 太阳法杖
+aoa3:surge_staff, 波涛之杖
+aoa3:tangle_staff, 困惑之杖
+aoa3:ultimatum_staff, 消失法杖
+aoa3:underworld_staff, 冥界法杖
+aoa3:water_staff, 水之法杖
+aoa3:web_staff, 网之棍
+aoa3:wind_staff, 风之法杖
+aoa3:wither_staff, 凋灵法杖
+aoa3:wizards_staff, 巫师法杖
+aoa3:apoco_shower, 末世喷射器
+aoa3:atomizer, 喷射器
+aoa3:beamer, 光束
+aoa3:bear_blaster, 熊之冲击者
+aoa3:beat_sound_cannon, 节奏加农
+aoa3:bee_blaster, 蜜蜂冲击者
+aoa3:blast_chiller, 极光
+aoa3:blood_drainer, 嗜血
+aoa3:bone_blaster, 骨之冲击者
+aoa3:bubble_horn, 泡沫号角
+aoa3:camel_cannon, 骆驼加农
+aoa3:colour_cannon, 色彩加农
+aoa3:confetti_cannon, 彩花加农
+aoa3:confetti_cluster, 烟花发射器
+aoa3:dark_destroyer, 黑暗毁灭者
+aoa3:darkly_guster, 暗黑狂风
+aoa3:death_ray, 死亡射线
+aoa3:deer_detonator, 小鹿枪
+aoa3:doom_bringer, 末日使者
+aoa3:dragon_destroyer, 巨龙毁灭者
+aoa3:electro_sound_cannon, 电音加农
+aoa3:eradicator, 根除者
+aoa3:fish_fryer, 小鱼水枪
+aoa3:flowercorne, 花角
+aoa3:fragment, 破碎
+aoa3:froster, 冻结
+aoa3:gas_blaster, 气流冲击波
+aoa3:ghoul_gasser, 恐惧气孔
+aoa3:gold_bringer, 黄金使者
+aoa3:gravity_blaster, 重力冲击者
+aoa3:hell_horn, 下界号角
+aoa3:hound_honcho, 猎犬町
+aoa3:illusion_revolver, 幻觉左轮
+aoa3:illusion_smg, 幻觉SMG
+aoa3:ion_blaster, 离子炮
+aoa3:iro_miner, 钢铁冲击者
+aoa3:laser_blaster, 激光冲击波
+aoa3:light_blaster, 闪耀冲击者
+aoa3:light_spark, 闪耀火花
+aoa3:luna_blaster, 卢娜冲击波
+aoa3:mecha_blaster, 机械冲击波
+aoa3:mind_blaster, 心灵冲击者
+aoa3:moon_destroyer, 月亮毁灭者
+aoa3:moon_shiner, 月光
+aoa3:odious, 仇恨
+aoa3:orbocron, 轨旋管
+aoa3:paralyzer, 麻痹
+aoa3:party_popper, 派对庆祝者
+aoa3:penguin_blaster, 动物爆破者
+aoa3:poison_plunger, 剧毒喷射器
+aoa3:power_ray, 强力镭射
+aoa3:proton, 粒子冲击波
+aoa3:reefer, 冰冻枪
+aoa3:revolution, 怒火
+aoa3:seaocron, 海之巨炮
+aoa3:skullo_blaster, 颅骨冲击波
+aoa3:soul_drainer, 噬魂者
+aoa3:soul_spark, 灵魂火花
+aoa3:soul_storm, 灵魂风暴
+aoa3:spirit_shower, 精神涤荡者
+aoa3:step_sound_cannon, 步调加农
+aoa3:swarmotron, 杀人蜂
+aoa3:synth_sound_cannon, 合成加农
+aoa3:toxic_terrorizer, 剧毒恐慌
+aoa3:vibe_sound_cannon, 震音加农
+aoa3:vortex_blaster, 漩涡枪
+aoa3:whimsy_winder, 奇妙的络筒机
+aoa3:withers_wrath, 凋灵之怒
+aoa3:active_rune_stone, 活跃符石
+aoa3:amphibiyte_lung, 安佛比亚的肺
+aoa3:ancient_orb, 远古宝珠
+aoa3:ancient_ring, 古老的戒指
+aoa3:anima_stone, 灵魂之石
+aoa3:apoco_stone, 末世石
+aoa3:balloon, 气球
+aoa3:blank_slab, 空白召唤板
+aoa3:blood_accumulator, 嗜血蓄能器
+aoa3:chestbone_fragment, 胸骨碎片
+aoa3:footbone_fragment, 足骨碎片
+aoa3:legbone_fragment, 腿骨碎片
+aoa3:skullbone_fragment, 头骨碎片
+aoa3:bone_horn, 骨质号角
+aoa3:book_of_shadows, 影之书
+aoa3:boulder_dash, 巨石
+aoa3:bubble_berries, 泡沫浆果
+aoa3:limonite_bullet, 褐铁子弹
+aoa3:call_of_the_drake, 德雷克的呼唤
+aoa3:candlefish, 烛鱼
+aoa3:candy_cane, 拐杖糖
+aoa3:candy_corn, 玉米糖
+aoa3:cannonball, 加农弹
+aoa3:charged_runium_chunk, 电磁符文块
+aoa3:chilli, 辣椒
+aoa3:chimera_chop, 熟的奇美拉肉排
+aoa3:raw_chimera_chop, 生的奇美拉肉排
+aoa3:circus_coin, 玩具硬币
+aoa3:copper_coin, 铜币
+aoa3:gold_coin, 金币
+aoa3:lunaver_coin, 月币
+aoa3:silver_coin, 银币
+aoa3:coral_stone, 珊瑚石
+aoa3:crimson_skipper, 红鱼
+aoa3:crimson_stripefish, 深红条纹鱼
+aoa3:blue_crystal, 蓝色水晶
+aoa3:crystal_box, 水晶箱
+aoa3:green_crystal, 绿色水晶
+aoa3:purple_crystal, 紫色水晶
+aoa3:red_crystal, 红色水晶
+aoa3:white_crystal, 白色晶石
+aoa3:yellow_crystal, 黄色水晶
+aoa3:cup, 杯子
+aoa3:dark_bones, 黑骨
+aoa3:dark_hatchetfish, 暗斧鱼
+aoa3:darkly_powder, 黑暗粉末
+aoa3:desert_shell, 沙漠甲壳
+aoa3:diamond_bowl, 钻石碗
+aoa3:discharge_capsule, 雷暴胶囊
+aoa3:doom_stone, 毁灭石
+aoa3:ancient_essence, 远古精华
+aoa3:charged_essence, 电磁精华
+aoa3:dark_essence, 黑暗精华
+aoa3:divine_essence, 神圣精华
+aoa3:empowered_essence, 控制精华
+aoa3:ethereal_essence, 飘渺精华
+aoa3:luminate_essence, 灿烂精华
+aoa3:molten_essence, 熔融精华
+aoa3:ominous_essence, 预兆精华
+aoa3:weak_essence, 淡薄精华
+aoa3:explosive_gems, 爆炸宝石
+aoa3:explosive_idol, 爆裂人偶
+aoa3:eye_bulb, 眼球
+aoa3:eye_candy, 眼球糖
+aoa3:fiery_chops, 下界猫肉
+aoa3:fingerfish, 手指鱼
+aoa3:fish_case, 鱼箱
+aoa3:fleshy_bones, 肉骨
+aoa3:floracle_sticks, 粉花棒
+aoa3:fragmented_anima_stone, 破碎的灵魂石
+aoa3:fungal_tea, 真菌茶
+aoa3:furlion_chop, 熟的毛狮肉
+aoa3:raw_furlion_chop, 生的毛狮肉
+aoa3:gem_bag, 宝石袋
+aoa3:bloodstone, 血之石
+aoa3:crystallite, 微晶
+aoa3:gemenyte, 冠盟宝石
+aoa3:jewelyte, 明珠宝石
+aoa3:ornamyte, 奥姆宝石
+aoa3:blue_gemstones, 蓝色宝石
+aoa3:green_gemstones, 绿色宝石
+aoa3:purple_gemstones, 紫色宝石
+aoa3:red_gemstones, 红色宝石
+aoa3:white_gemstones, 白色宝石
+aoa3:yellow_gemstones, 黄色宝石
+aoa3:ghostly_powder, 幽魂粉末
+aoa3:ghostly_stone, 幽灵石
+aoa3:ghoulasm, 恐惧血液
+aoa3:giant_crystal, 巨型水晶
+aoa3:gingerbread_cookie, 姜饼曲奇
+aoa3:gingerbread_wing, 姜饼翅膀
+aoa3:golden_gullfish, 金鸥鱼
+aoa3:goldicap_petals, 金果
+aoa3:gold_spring, 黄金弹簧
+aoa3:gravitator, 圣杯
+aoa3:guardians_eye, 守护者之眼
+aoa3:halycon_beef, 熟的平静牛肉
+aoa3:raw_halycon_beef, 生的平静牛肉
+aoa3:halycon_milk, 平静的牛奶
+aoa3:haunted_idol, 鬼魅神像
+aoa3:mystic_shrooms, 神秘菇
+aoa3:heart_fruit, 心果
+aoa3:heart_stone, 生命之石
+aoa3:heavy_boulder, 沉重巨石
+aoa3:hive_chunk, 蜂巢块
+aoa3:holly_arrow, 冬青箭
+aoa3:spectral_holly_arrow, 光灵冬青箭
+aoa3:tipped_holly_arrow:0, Holly Arrow of night_vision
+aoa3:tipped_holly_arrow:0, Holly Arrow of night_vision
+aoa3:tipped_holly_arrow:0, Holly Arrow of invisibility
+aoa3:tipped_holly_arrow:0, Holly Arrow of invisibility
+aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
+aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
+aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
+aoa3:tipped_holly_arrow:0, Holly Arrow of fire_resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of fire_resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
+aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
+aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
+aoa3:tipped_holly_arrow:0, Holly Arrow of slowness
+aoa3:tipped_holly_arrow:0, Holly Arrow of slowness
+aoa3:tipped_holly_arrow:0, Holly Arrow of water_breathing
+aoa3:tipped_holly_arrow:0, Holly Arrow of water_breathing
+aoa3:tipped_holly_arrow:0, Holly Arrow of healing
+aoa3:tipped_holly_arrow:0, Holly Arrow of healing
+aoa3:tipped_holly_arrow:0, Holly Arrow of harming
+aoa3:tipped_holly_arrow:0, Holly Arrow of harming
+aoa3:tipped_holly_arrow:0, Holly Arrow of poison
+aoa3:tipped_holly_arrow:0, Holly Arrow of poison
+aoa3:tipped_holly_arrow:0, Holly Arrow of poison
+aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
+aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
+aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
+aoa3:tipped_holly_arrow:0, Holly Arrow of strength
+aoa3:tipped_holly_arrow:0, Holly Arrow of strength
+aoa3:tipped_holly_arrow:0, Holly Arrow of strength
+aoa3:tipped_holly_arrow:0, Holly Arrow of weakness
+aoa3:tipped_holly_arrow:0, Holly Arrow of weakness
+aoa3:tipped_holly_arrow:0, Holly Arrow of luck
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of mining_fatigue
+aoa3:tipped_holly_arrow:0, Holly Arrow of mining_fatigue
+aoa3:tipped_holly_arrow:0, Holly Arrow of mining_fatigue
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of danger_sight
+aoa3:tipped_holly_arrow:0, Holly Arrow of danger_sight
+aoa3:tipped_holly_arrow:0, Holly Arrow of cuisine.cold_blood
+aoa3:tipped_holly_arrow:0, Holly Arrow of cuisine.hot
+aoa3:tipped_holly_arrow:0, Holly Arrow of cuisine.dispersal
+aoa3:tipped_holly_arrow:0, Holly Arrow of cuisine.toughness
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of levitation
+aoa3:tipped_holly_arrow:0, Holly Arrow of levitation
+aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
+aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
+aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
+aoa3:tipped_holly_arrow:0, Holly Arrow of luck
+aoa3:tipped_holly_arrow:0, Holly Arrow of luck
+aoa3:tipped_holly_arrow:0, Holly Arrow of luck
+aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
+aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
+aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
+aoa3:tipped_holly_arrow:0, Holly Arrow of wither
+aoa3:tipped_holly_arrow:0, Holly Arrow of wither
+aoa3:tipped_holly_arrow:0, Holly Arrow of wither
+aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
+aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
+aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
+aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
+aoa3:tipped_holly_arrow:0, Holly Arrow of healing
+aoa3:tipped_holly_arrow:0, Holly Arrow of healing
+aoa3:tipped_holly_arrow:0, Holly Arrow of harming
+aoa3:tipped_holly_arrow:0, Holly Arrow of harming
+aoa3:tipped_holly_arrow:0, Holly Arrow of poison
+aoa3:tipped_holly_arrow:0, Holly Arrow of poison
+aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
+aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
+aoa3:tipped_holly_arrow:0, Holly Arrow of strength
+aoa3:tipped_holly_arrow:0, Holly Arrow of strength
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
+aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
+aoa3:tipped_holly_arrow:0, Holly Arrow of luck
+aoa3:tipped_holly_arrow:0, Holly Arrow of luck
+aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
+aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
+aoa3:tipped_holly_arrow:0, Holly Arrow of wither
+aoa3:tipped_holly_arrow:0, Holly Arrow of wither
+aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
+aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
+aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
+aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
+aoa3:tipped_holly_arrow:0, Holly Arrow of poison
+aoa3:tipped_holly_arrow:0, Holly Arrow of poison
+aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
+aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
+aoa3:tipped_holly_arrow:0, Holly Arrow of strength
+aoa3:tipped_holly_arrow:0, Holly Arrow of strength
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
+aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
+aoa3:tipped_holly_arrow:0, Holly Arrow of luck
+aoa3:tipped_holly_arrow:0, Holly Arrow of luck
+aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
+aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
+aoa3:tipped_holly_arrow:0, Holly Arrow of wither
+aoa3:tipped_holly_arrow:0, Holly Arrow of wither
+aoa3:tipped_holly_arrow:0, Holly Arrow of ender
+aoa3:tipped_holly_arrow:0, Holly Arrow of snow
+aoa3:tipped_holly_arrow:0, Holly Arrow of butter
+aoa3:tipped_holly_arrow:0, Holly Arrow of butter2
+aoa3:tipped_holly_arrow:0, Holly Arrow of slowfall
+aoa3:tipped_holly_arrow:0, Holly Arrow of waterwalk
+aoa3:tipped_holly_arrow:0, Holly Arrow of swim
+aoa3:tipped_holly_arrow:0, Holly Arrow of swim2
+aoa3:tipped_holly_arrow:0, Holly Arrow of bounce
+aoa3:tipped_holly_arrow:0, Holly Arrow of frostwalker
+aoa3:tipped_holly_arrow:0, Holly Arrow of magnet
+aoa3:tipped_holly_arrow:0, Holly Arrow of levitation
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste
+aoa3:tipped_holly_arrow:0, Holly Arrow of haste2
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
+aoa3:tipped_holly_arrow:0, Holly Arrow of resistance2
+aoa3:tipped_holly_arrow:0, Holly Arrow of healthboost
+aoa3:tipped_holly_arrow:0, Holly Arrow of luck
+aoa3:tipped_holly_arrow:0, Holly Arrow of wither
+aoa3:tipped_holly_arrow:0, Holly Arrow of blindness
+aoa3:tipped_holly_arrow:0, Holly Arrow of saturation
+aoa3:tipped_holly_arrow:0, Holly Arrow of hunger
+aoa3:holly_top_petals, 冬青花瓣
+aoa3:hot_rod, 烤毛狮肉
+aoa3:hydro_stone, 水能宝石
+aoa3:ice_crystal, 冰之水晶
+aoa3:impure_gold, 掺金
+aoa3:incomplete_mecha_archergun, 不完整的机甲弩
+aoa3:incomplete_mecha_bow, 不完整的机甲弓
+aoa3:incomplete_mecha_cannon, 不完整的机甲加农炮
+aoa3:incomplete_mechanical_assault_rifle, 不完整的机械突击步枪
+aoa3:incomplete_mecha_staff, 不完整的机甲法杖
+aoa3:incomplete_mechyro, 不完整的双管猎枪
+aoa3:ambient_infusion_stone, 宁静的注魔石
+aoa3:blooming_infusion_stone, 盛开的注魔石
+aoa3:glaring_infusion_stone, 耀眼的注魔石
+aoa3:gleaming_infusion_stone, 闪烁的注魔石
+aoa3:glistening_infusion_stone, 闪耀的注魔石
+aoa3:glowing_infusion_stone, 灼热的注魔石
+aoa3:radiant_infusion_stone, 照耀的注魔石
+aoa3:shining_infusion_stone, 华丽的注魔石
+aoa3:amethyst_ingot, 紫晶锭
+aoa3:baronyte_ingot, 硫铁钾锭
+aoa3:blazium_ingot, 虚空锭
+aoa3:elecanium_ingot, 钛锭
+aoa3:emberstone_ingot, 余烬石锭
+aoa3:ghastly_ingot, 阴森锭
+aoa3:ghoulish_ingot, 恐惧锭
+aoa3:jade_ingot, 翡翠锭
+aoa3:limonite_ingot, 褐铁锭
+aoa3:lunar_ingot, 月锭
+aoa3:lyon_ingot, 钢铁锭
+aoa3:mystite_ingot, 神秘锭
+aoa3:rosite_ingot, 硫铜锑锭
+aoa3:rusted_iron_ingot, 生锈的铁锭
+aoa3:sapphire_ingot, 蓝宝石锭
+aoa3:shyregem_ingot, 塞尔瑞宝石锭
+aoa3:shyrestone_ingot, 塞尔瑞石锭
+aoa3:skeletal_ingot, 骷髅锭
+aoa3:varsium_ingot, 镁锭
+aoa3:ironback, 铁背鱼
+aoa3:ivory, 象牙
+aoa3:jungle_thorns, 雨林荆棘
+aoa3:limefish, 柠檬鱼
+aoa3:lunacrike, 紫薯
+aoa3:luna_globe, 卢娜果
+aoa3:lunalons, 月花
+aoa3:lunarade, 月球咖啡
+aoa3:lunarade_mug, 月球咖啡杯
+aoa3:magic_marang, 魔法面包果
+aoa3:magic_mending_compound, 魔法修复剂
+aoa3:magic_mending_solution, 魔法修复液
+aoa3:magic_repair_dust, 魔法修复沙
+aoa3:mecha_gear, 机甲齿轮
+aoa3:mega_rune_fragment_blue, 蓝色超级符文碎片
+aoa3:mega_rune_fragment_green, 绿色超级符文碎片
+aoa3:mega_rune_fragment_red, 红色超级符文碎片
+aoa3:mega_rune_fragment_yellow, 黄色超级符文碎片
+aoa3:mega_rune_stone, 超级符文
+aoa3:metal_slug, 重铅弹
+aoa3:metal_tub, 金属桶
+aoa3:millenium_upgrader, 升级装置：千年
+aoa3:molten_upgrader, 升级装置：熔融
+aoa3:moonstone, 月之沙
+aoa3:mud_ball, 泥球
+aoa3:natural_tea, 天然茶
+aoa3:nature_melon_slice, 天然西瓜
+aoa3:nethengeic_callstone, 纳德吉克召唤石
+aoa3:nightmare_flakes, 噩梦薄片
+aoa3:observing_eye, 观察者之眼
+aoa3:old_boot, 旧靴子
+aoa3:opteryx_feather, 弹跳鸟羽毛
+aoa3:orbulon, 月球宝珠
+aoa3:pearl_stripefish, 珍珠条纹鱼
+aoa3:peppermint_candy, 薄荷糖
+aoa3:petals, 花瓣
+aoa3:phantasm, 幻象血液
+aoa3:pop_shot, 炸弹碎片
+aoa3:ambient_power_stone, 宁静的能量石
+aoa3:blooming_power_stone, 盛开的能量石
+aoa3:glaring_power_stone, 耀眼的能量石
+aoa3:gleaming_power_stone, 闪烁的能量石
+aoa3:glistening_power_stone, 闪耀的能量石
+aoa3:glowing_power_stone, 灼热的能量石
+aoa3:radiant_power_stone, 照耀的能量石
+aoa3:shining_power_stone, 华丽的能量石
+aoa3:primed_ghoulasm, 浓缩恐惧血液
+aoa3:primordial_dust, 原始之尘
+aoa3:primordial_skull, 原始头骨
+aoa3:progress_coin0, 启动硬币
+aoa3:progress_coin1, 通关硬币
+aoa3:progress_coin2, 通关硬币
+aoa3:progress_coin3, 通关硬币
+aoa3:progress_coin4, 通关硬币
+aoa3:pure_coral_stone, 纯珊瑚石
+aoa3:pure_gold, 纯金
+aoa3:pure_rain_stone, 纯雨石
+aoa3:pure_water_stone, 纯水石
+aoa3:rainbowfish, 彩虹鱼
+aoa3:rammerhead_hide, 灰色皮革
+aoa3:razorfish, 剃刀鱼
+aoa3:abyss_realmstone, 深渊纯宝石
+aoa3:ancient_cavern_realmstone, 远古纯宝石
+aoa3:barathos_realmstone, 爵士纯宝石
+aoa3:borean_realmstone, 暴风纯宝石
+aoa3:candyland_realmstone, 糖果纯宝石
+aoa3:celeve_realmstone, 玩具纯宝石
+aoa3:creeponia_realmstone, 蠕变纯宝石
+aoa3:crystevia_realmstone, 晶体纯宝石
+aoa3:deeplands_realmstone, 深层纯宝石
+aoa3:dustopia_realmstone, 异位纯宝石
+aoa3:gardencia_realmstone, 花园纯宝石
+aoa3:haven_realmstone, 天堂纯宝石
+aoa3:immortallis_realmstone, 不朽纯宝石
+aoa3:iromine_realmstone, 黄金纯宝石
+aoa3:lelyetia_realmstone, 赫尔维蒂纯宝石
+aoa3:lunalus_realmstone, 月球纯宝石
+aoa3:mysterium_realmstone, 秘境纯宝石
+aoa3:precasia_realmstone, 传说纯宝石
+aoa3:shyrelands_realmstone, 塞尔瑞纯宝石
+aoa3:vox_ponds_realmstone, 未知纯宝石
+aoa3:realm_travel_ticket, 维票
+aoa3:return_crystal, 传送水晶
+aoa3:rock_bones, 岩骨
+aoa3:rocketfish, 箭鱼
+aoa3:rosidons, 伊甸果
+aoa3:rune_box, 符文箱
+aoa3:charged_rune, 电磁符文
+aoa3:compass_rune, 定位符文
+aoa3:distortion_rune, 扭曲符文
+aoa3:energy_rune, 能量符文
+aoa3:fire_rune, 火焰符文
+aoa3:kinetic_rune, 动能符文
+aoa3:life_rune, 生命符文
+aoa3:lunar_rune, 月符文
+aoa3:poison_rune, 剧毒符文
+aoa3:power_rune, 力量符文
+aoa3:rune_stone, 符石
+aoa3:storm_rune, 暴风符文
+aoa3:strike_rune, 杀戮符文
+aoa3:unpowered_rune, 未充能的符文
+aoa3:water_rune, 水符文
+aoa3:wind_rune, 风符文
+aoa3:wither_rune, 凋灵符文
+aoa3:runic_energy, 符文能量
+aoa3:runium_chunk, 符文块
+aoa3:sailback, 帆背鱼
+aoa3:sapphire_strider, 蔚蓝条纹鱼
+aoa3:scream_shield, 尖叫之盾
+aoa3:bubble_berry_seeds, 泡沫浆果种子
+aoa3:chilli_seeds, 辣椒种子
+aoa3:eye_bulb_seeds, 眼球之种
+aoa3:floracle_seeds, 粉花种子
+aoa3:goldicap_seeds, 金果种子
+aoa3:mystic_shroom_seeds, 神秘菇种
+aoa3:heart_fruit_seeds, 心果种子
+aoa3:holly_top_seeds, 冬青种子
+aoa3:lunacrike_seeds, 紫薯种子
+aoa3:luna_globe_seeds, 卢娜种子
+aoa3:lunalon_seeds, 月花种子
+aoa3:magic_marang_seeds, 魔法面包果种子
+aoa3:rosidon_seeds, 伊甸果种子
+aoa3:tea_seeds, 茶籽
+aoa3:thorny_plant_seeds, 荆棘花种子
+aoa3:trilliad_seeds, 蓝花种子
+aoa3:shiny_box, 闪亮的盒子
+aoa3:shroom_stone, 蘑菇石
+aoa3:silvro_coin, 纯银硬币
+aoa3:giant_skill_crystal, 技能水晶（巨大）
+aoa3:large_skill_crystal, 技能水晶（大）
+aoa3:medium_skill_crystal, 技能水晶（中）
+aoa3:small_skill_crystal, 技能水晶（小）
+aoa3:alluricorn_slab, 神马召唤板
+aoa3:blissard_slab, 白精灵召唤板
+aoa3:compeer_slab, 背甲怪召唤板
+aoa3:construct_of_servility_slab, 奴役概念晶体
+aoa3:corby_slab, 库比召唤板
+aoa3:craggy_slab, 红精灵召唤板
+aoa3:draggy_slab, 粉精灵召唤板
+aoa3:ender_carrier_slab, 末影牛召唤板
+aoa3:gnawer_slab, 吸食者召唤板
+aoa3:goofer_slab, 施法者召唤板
+aoa3:healing_golem_slab, 治疗傀儡召唤板
+aoa3:hellquin_slab, 下界企鹅召唤板
+aoa3:horntail_slab, 稻草人召唤板
+aoa3:mecha_cyclops_slab, 机甲独眼巨人召唤板
+aoa3:mecha_skellox_slab, 机甲独眼兽召唤板
+aoa3:penguin_slab, 企鹅召唤板
+aoa3:plateosaur_slab, 独角怪召唤板
+aoa3:rammerhorn_slab, 锤角怪召唤板
+aoa3:shaddy_slab, 黑精灵召唤板
+aoa3:spikeback_slab, 虚无尖锋召唤板
+aoa3:spraggy_slab, 绿精灵召唤板
+aoa3:waggy_slab, 蓝精灵召唤板
+aoa3:sludge_parasite, 污泥寄生虫
+aoa3:small_blue_petal, 小的蓝花瓣
+aoa3:small_green_petal, 小的绿花瓣
+aoa3:small_orange_petal, 小的橙花瓣
+aoa3:small_purple_petal, 小的紫花瓣
+aoa3:small_red_petal, 小的红花瓣
+aoa3:soulbone, 魂骨
+aoa3:sour_candy, 酸糖果
+aoa3:sour_gummy, 酸软糖
+aoa3:sour_pop, 酸糖
+aoa3:spearmint_candy, 留兰香糖
+aoa3:spreadshot, 霰弹
+aoa3:staring_eye, 凝视之眼
+aoa3:stone_bowl, 石碗
+aoa3:blue_strange_stone, 奇怪的蓝色石头
+aoa3:white_strange_stone, 奇怪的白色石头
+aoa3:yellow_strange_stone, 奇怪的黄色石头
+aoa3:tea, 茶
+aoa3:tea_shreddings, 茶叶
+aoa3:thorny_petals, 荆棘花瓣
+aoa3:abyss_tokens, 深渊代币
+aoa3:baron_tokens, 爵士代币
+aoa3:borean_tokens, 暴风代币
+aoa3:candyland_tokens, 糖果代币
+aoa3:celeve_tokens, 玩具代币
+aoa3:creeponia_tokens, 蠕变代币
+aoa3:crystevia_tokens, 晶体代币
+aoa3:deeplands_tokens, 深层代币
+aoa3:dungeon_tokens, 地牢令牌
+aoa3:dustopia_tokens, 异位代币
+aoa3:gardencia_tokens, 花园代币
+aoa3:greckon_tokens, 格瑞克代币
+aoa3:haven_tokens, 天堂代币
+aoa3:iromine_tokens, 黄金代币
+aoa3:lelyetia_tokens, 赫尔维蒂代币
+aoa3:lunar_tokens, 月球代币
+aoa3:mysterium_tokens, 秘境代币
+aoa3:nether_tokens, 下界代币
+aoa3:precasian_tokens, 传说代币
+aoa3:runandor_tokens, 融化代币
+aoa3:shyrelands_tokens, 塞尔瑞代币
+aoa3:vox_ponds_tokens, 未知代币
+aoa3:abominator_totem, 厌恶者图腾
+aoa3:ancient_bow_totem, 远古之弓图腾
+aoa3:animal_blaster_totem, 动物爆破者图腾
+aoa3:aquatic_staff_totem, 水能法杖图腾
+aoa3:baron_ssr_totem, 爵士SSR图腾
+aoa3:baron_staff_totem, 爵士法杖图腾
+aoa3:bayonette_sr_totem, 刺刀SR图腾
+aoa3:bloodfury_totem, 血之怒图腾
+aoa3:boom_boom_totem, 天启爆炸图腾
+aoa3:creepoid_greatblade_totem, 蠕变巨剑图腾
+aoa3:crystal_maul_totem, 水晶槌图腾
+aoa3:crystaneer_totem, 水晶狙击图腾
+aoa3:daybreaker_totem, 破晓图腾
+aoa3:explochron_sword_totem, 爆破剑图腾
+aoa3:flaming_fury_totem, 熊熊怒火图腾
+aoa3:flowercorne_totem, 花角图腾
+aoa3:froster_totem, 冻结图腾
+aoa3:giga_cannon_totem, 千兆加农图腾
+aoa3:goofy_greatblade_totem, 愚弄巨剑图腾
+aoa3:haunters_rifle_totem, 幽魂枪图腾
+aoa3:luna_blaster_totem, 卢娜冲击波图腾
+aoa3:mecha_blaster_totem, 机械冲击波图腾
+aoa3:mint_magnum_totem, 薄荷枪图腾
+aoa3:noxious_greatblade_totem, 剧毒巨剑图腾
+aoa3:predatious_bow_totem, 自然弓图腾
+aoa3:pulsator_totem, 震动器图腾
+aoa3:purple_punisher_totem, 紫色惩罚者图腾
+aoa3:rosidian_archergun_totem, 伊恩弩图腾
+aoa3:royal_greatblade_totem, 皇家巨剑图腾
+aoa3:sky_staff_totem, 天空法杖图腾
+aoa3:soul_bone_totem, 魂骨图腾
+aoa3:soulfire_bow_totem, 魂焰之弓图腾
+aoa3:sound_cannon_totem, 声波加农图腾
+aoa3:swarmotron_totem, 杀人蜂图腾
+aoa3:terminator_totem, 终结者图腾
+aoa3:tidal_greatblade_totem, 潮汐巨剑图腾
+aoa3:viper1_totem, 蝰蛇-1图腾
+aoa3:viral_archergun_totem, 病毒弩图腾
+aoa3:wart_gun_totem, 下界疣枪图腾
+aoa3:whimsy_winder_totem, Whimsy Winder Totem
+aoa3:wizard_staff_totem, 巫师法杖图腾
+aoa3:toxic_lump, 毒素肿块
+aoa3:toy_gyrocopter, 玩具飞机
+aoa3:treasure_box, 宝藏箱
+aoa3:treat_bag, 零食袋
+aoa3:trilliad_leaves, 蓝花叶子
+aoa3:troll_idol, 巨怪人偶
+aoa3:troll_skull, 巨怪头骨
+aoa3:turquoise_stripefish, 绿松条纹鱼
+aoa3:uncharged_orb, 不带电的球
+aoa3:uncharged_stone, 不带电的石头
+aoa3:abyssal_upgrade_kit, 升级包：深渊
+aoa3:ancient_upgrade_kit, 升级包：远古
+aoa3:apoco_upgrade_kit, 升级包：末世
+aoa3:clown_upgrade_kit, 升级包：小丑
+aoa3:darkly_upgrade_kit, 升级包：暗黑
+aoa3:floro_upgrade_kit, 升级包：花
+aoa3:golden_upgrade_kit, 升级包：黄金
+aoa3:haunted_upgrade_kit, 升级包：颅骨
+aoa3:lelyetian_upgrade_kit, 升级包：蜂巢
+aoa3:light_upgrade_kit, 升级包：闪耀
+aoa3:lunar_upgrade_kit, 升级包：月球
+aoa3:nether_upgrade_kit, 升级包：下界
+aoa3:precasian_upgrade_kit, 升级包：传说
+aoa3:predator_upgrade_kit, 升级包：掠夺者
+aoa3:rocky_upgrade_kit, 升级包：岩石
+aoa3:runic_upgrade_kit, 升级包：符文
+aoa3:seaside_upgrade_kit, 升级包：海洋
+aoa3:smiley_upgrade_kit, 升级包：玩具
+aoa3:urka_hide, 黑色皮革
+aoa3:ursa_meat, 熟熊肉
+aoa3:raw_ursa_meat, 生熊肉
+aoa3:vile_stone, 邪恶石
+aoa3:violet_skipper, 紫鱼
+aoa3:voliant_heart, 天界轰炸机之心
+aoa3:vulcane_augment_battle, 强化：战斗
+aoa3:vulcane_augment_equality, 强化：生命
+aoa3:vulcane_augment_fire, 强化：火焰
+aoa3:vulcane_augment_impairment, 强化：仇恨
+aoa3:vulcane_augment_poison, 强化：剧毒
+aoa3:vulcane_augment_power, 强化：力量
+aoa3:vulcane_augment_wither, 强化：凋灵
+aoa3:warlock_gem, 术士宝石
+aoa3:waterlogged_aqua_cannon, 浸水的水炮
+aoa3:waterlogged_coral_archergun, 浸水的珊瑚弩
+aoa3:waterlogged_coral_cannon, 浸水的珊瑚炮
+aoa3:waterlogged_coral_clogger, 浸水的珊瑚枪
+aoa3:waterlogged_reefer, 浸水的冰冻枪
+aoa3:weapon_parts, 武器零件
+aoa3:weapons_case, 武器箱
+aoa3:whitewashing_solution, 灰色浸染材料
+aoa3:worn_book, 旧书
+aoa3:zhinx_dust, 间线尘
 aoa3:alacrity_boots, 敏捷靴子
 aoa3:alacrity_legs, 敏捷护腿
 aoa3:alacrity_chestplate, 敏捷胸甲
@@ -6891,577 +7856,6 @@ aoa3:vox_banner, Vox Banner
 aoa3:bejewelled_vox_banner, Bejewelled Vox Banner
 aoa3:encrusted_vox_banner, Encrusted Vox Banner
 aoa3:gilded_vox_banner, Gilded Vox Banner
-aoa3:active_rune_stone, 活跃符石
-aoa3:amphibiyte_lung, 安佛比亚的肺
-aoa3:ancient_orb, 远古宝珠
-aoa3:ancient_ring, 古老的戒指
-aoa3:anima_stone, 灵魂之石
-aoa3:apoco_stone, 末世石
-aoa3:balloon, 气球
-aoa3:blank_slab, 空白召唤板
-aoa3:blood_accumulator, 嗜血蓄能器
-aoa3:chestbone_fragment, 胸骨碎片
-aoa3:footbone_fragment, 足骨碎片
-aoa3:legbone_fragment, 腿骨碎片
-aoa3:skullbone_fragment, 头骨碎片
-aoa3:bone_horn, 骨质号角
-aoa3:book_of_shadows, 影之书
-aoa3:boulder_dash, 巨石
-aoa3:bubble_berries, 泡沫浆果
-aoa3:limonite_bullet, 褐铁子弹
-aoa3:call_of_the_drake, 德雷克的呼唤
-aoa3:candlefish, 烛鱼
-aoa3:candy_cane, 拐杖糖
-aoa3:candy_corn, 玉米糖
-aoa3:cannonball, 加农弹
-aoa3:charged_runium_chunk, 电磁符文块
-aoa3:chilli, 辣椒
-aoa3:chimera_chop, 熟的奇美拉肉排
-aoa3:raw_chimera_chop, 生的奇美拉肉排
-aoa3:circus_coin, 玩具硬币
-aoa3:copper_coin, 铜币
-aoa3:gold_coin, 金币
-aoa3:lunaver_coin, 月币
-aoa3:silver_coin, 银币
-aoa3:coral_stone, 珊瑚石
-aoa3:crimson_skipper, 红鱼
-aoa3:crimson_stripefish, 深红条纹鱼
-aoa3:blue_crystal, 蓝色水晶
-aoa3:crystal_box, 水晶箱
-aoa3:green_crystal, 绿色水晶
-aoa3:purple_crystal, 紫色水晶
-aoa3:red_crystal, 红色水晶
-aoa3:white_crystal, 白色晶石
-aoa3:yellow_crystal, 黄色水晶
-aoa3:cup, 杯子
-aoa3:dark_bones, 黑骨
-aoa3:dark_hatchetfish, 暗斧鱼
-aoa3:darkly_powder, 黑暗粉末
-aoa3:desert_shell, 沙漠甲壳
-aoa3:diamond_bowl, 钻石碗
-aoa3:discharge_capsule, 雷暴胶囊
-aoa3:doom_stone, 毁灭石
-aoa3:ancient_essence, 远古精华
-aoa3:charged_essence, 电磁精华
-aoa3:dark_essence, 黑暗精华
-aoa3:divine_essence, 神圣精华
-aoa3:empowered_essence, 控制精华
-aoa3:ethereal_essence, 飘渺精华
-aoa3:luminate_essence, 灿烂精华
-aoa3:molten_essence, 熔融精华
-aoa3:ominous_essence, 预兆精华
-aoa3:weak_essence, 淡薄精华
-aoa3:explosive_gems, 爆炸宝石
-aoa3:explosive_idol, 爆裂人偶
-aoa3:eye_bulb, 眼球
-aoa3:eye_candy, 眼球糖
-aoa3:fiery_chops, 下界猫肉
-aoa3:fingerfish, 手指鱼
-aoa3:fish_case, 鱼箱
-aoa3:fleshy_bones, 肉骨
-aoa3:floracle_sticks, 粉花棒
-aoa3:fragmented_anima_stone, 破碎的灵魂石
-aoa3:fungal_tea, 真菌茶
-aoa3:furlion_chop, 熟的毛狮肉
-aoa3:raw_furlion_chop, 生的毛狮肉
-aoa3:gem_bag, 宝石袋
-aoa3:bloodstone, 血之石
-aoa3:crystallite, 微晶
-aoa3:gemenyte, 冠盟宝石
-aoa3:jewelyte, 明珠宝石
-aoa3:ornamyte, 奥姆宝石
-aoa3:blue_gemstones, 蓝色宝石
-aoa3:green_gemstones, 绿色宝石
-aoa3:purple_gemstones, 紫色宝石
-aoa3:red_gemstones, 红色宝石
-aoa3:white_gemstones, 白色宝石
-aoa3:yellow_gemstones, 黄色宝石
-aoa3:ghostly_powder, 幽魂粉末
-aoa3:ghostly_stone, 幽灵石
-aoa3:ghoulasm, 恐惧血液
-aoa3:giant_crystal, 巨型水晶
-aoa3:gingerbread_cookie, 姜饼曲奇
-aoa3:gingerbread_wing, 姜饼翅膀
-aoa3:golden_gullfish, 金鸥鱼
-aoa3:goldicap_petals, 金果
-aoa3:gold_spring, 黄金弹簧
-aoa3:gravitator, 圣杯
-aoa3:guardians_eye, 守护者之眼
-aoa3:halycon_beef, 熟的平静牛肉
-aoa3:raw_halycon_beef, 生的平静牛肉
-aoa3:halycon_milk, 平静的牛奶
-aoa3:haunted_idol, 鬼魅神像
-aoa3:mystic_shrooms, 神秘菇
-aoa3:heart_fruit, 心果
-aoa3:heart_stone, 生命之石
-aoa3:heavy_boulder, 沉重巨石
-aoa3:hive_chunk, 蜂巢块
-aoa3:holly_arrow, 冬青箭
-aoa3:spectral_holly_arrow, 光灵冬青箭
-aoa3:tipped_holly_arrow:0, Holly Arrow of night_vision
-aoa3:tipped_holly_arrow:0, Holly Arrow of night_vision
-aoa3:tipped_holly_arrow:0, Holly Arrow of invisibility
-aoa3:tipped_holly_arrow:0, Holly Arrow of invisibility
-aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
-aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
-aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
-aoa3:tipped_holly_arrow:0, Holly Arrow of fire_resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of fire_resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
-aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
-aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
-aoa3:tipped_holly_arrow:0, Holly Arrow of slowness
-aoa3:tipped_holly_arrow:0, Holly Arrow of slowness
-aoa3:tipped_holly_arrow:0, Holly Arrow of water_breathing
-aoa3:tipped_holly_arrow:0, Holly Arrow of water_breathing
-aoa3:tipped_holly_arrow:0, Holly Arrow of healing
-aoa3:tipped_holly_arrow:0, Holly Arrow of healing
-aoa3:tipped_holly_arrow:0, Holly Arrow of harming
-aoa3:tipped_holly_arrow:0, Holly Arrow of harming
-aoa3:tipped_holly_arrow:0, Holly Arrow of poison
-aoa3:tipped_holly_arrow:0, Holly Arrow of poison
-aoa3:tipped_holly_arrow:0, Holly Arrow of poison
-aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
-aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
-aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
-aoa3:tipped_holly_arrow:0, Holly Arrow of strength
-aoa3:tipped_holly_arrow:0, Holly Arrow of strength
-aoa3:tipped_holly_arrow:0, Holly Arrow of strength
-aoa3:tipped_holly_arrow:0, Holly Arrow of weakness
-aoa3:tipped_holly_arrow:0, Holly Arrow of weakness
-aoa3:tipped_holly_arrow:0, Holly Arrow of luck
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of mining_fatigue
-aoa3:tipped_holly_arrow:0, Holly Arrow of mining_fatigue
-aoa3:tipped_holly_arrow:0, Holly Arrow of mining_fatigue
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of danger_sight
-aoa3:tipped_holly_arrow:0, Holly Arrow of danger_sight
-aoa3:tipped_holly_arrow:0, Holly Arrow of cuisine.cold_blood
-aoa3:tipped_holly_arrow:0, Holly Arrow of cuisine.toughness
-aoa3:tipped_holly_arrow:0, Holly Arrow of cuisine.hot
-aoa3:tipped_holly_arrow:0, Holly Arrow of cuisine.dispersal
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of levitation
-aoa3:tipped_holly_arrow:0, Holly Arrow of levitation
-aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
-aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
-aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
-aoa3:tipped_holly_arrow:0, Holly Arrow of luck
-aoa3:tipped_holly_arrow:0, Holly Arrow of luck
-aoa3:tipped_holly_arrow:0, Holly Arrow of luck
-aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
-aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
-aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
-aoa3:tipped_holly_arrow:0, Holly Arrow of wither
-aoa3:tipped_holly_arrow:0, Holly Arrow of wither
-aoa3:tipped_holly_arrow:0, Holly Arrow of wither
-aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
-aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
-aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
-aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
-aoa3:tipped_holly_arrow:0, Holly Arrow of healing
-aoa3:tipped_holly_arrow:0, Holly Arrow of healing
-aoa3:tipped_holly_arrow:0, Holly Arrow of harming
-aoa3:tipped_holly_arrow:0, Holly Arrow of harming
-aoa3:tipped_holly_arrow:0, Holly Arrow of poison
-aoa3:tipped_holly_arrow:0, Holly Arrow of poison
-aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
-aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
-aoa3:tipped_holly_arrow:0, Holly Arrow of strength
-aoa3:tipped_holly_arrow:0, Holly Arrow of strength
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
-aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
-aoa3:tipped_holly_arrow:0, Holly Arrow of luck
-aoa3:tipped_holly_arrow:0, Holly Arrow of luck
-aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
-aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
-aoa3:tipped_holly_arrow:0, Holly Arrow of wither
-aoa3:tipped_holly_arrow:0, Holly Arrow of wither
-aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
-aoa3:tipped_holly_arrow:0, Holly Arrow of leaping
-aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
-aoa3:tipped_holly_arrow:0, Holly Arrow of swiftness
-aoa3:tipped_holly_arrow:0, Holly Arrow of poison
-aoa3:tipped_holly_arrow:0, Holly Arrow of poison
-aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
-aoa3:tipped_holly_arrow:0, Holly Arrow of regeneration
-aoa3:tipped_holly_arrow:0, Holly Arrow of strength
-aoa3:tipped_holly_arrow:0, Holly Arrow of strength
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
-aoa3:tipped_holly_arrow:0, Holly Arrow of absorption
-aoa3:tipped_holly_arrow:0, Holly Arrow of luck
-aoa3:tipped_holly_arrow:0, Holly Arrow of luck
-aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
-aoa3:tipped_holly_arrow:0, Holly Arrow of unluck
-aoa3:tipped_holly_arrow:0, Holly Arrow of wither
-aoa3:tipped_holly_arrow:0, Holly Arrow of wither
-aoa3:tipped_holly_arrow:0, Holly Arrow of ender
-aoa3:tipped_holly_arrow:0, Holly Arrow of snow
-aoa3:tipped_holly_arrow:0, Holly Arrow of butter
-aoa3:tipped_holly_arrow:0, Holly Arrow of butter2
-aoa3:tipped_holly_arrow:0, Holly Arrow of slowfall
-aoa3:tipped_holly_arrow:0, Holly Arrow of waterwalk
-aoa3:tipped_holly_arrow:0, Holly Arrow of swim
-aoa3:tipped_holly_arrow:0, Holly Arrow of swim2
-aoa3:tipped_holly_arrow:0, Holly Arrow of bounce
-aoa3:tipped_holly_arrow:0, Holly Arrow of frostwalker
-aoa3:tipped_holly_arrow:0, Holly Arrow of magnet
-aoa3:tipped_holly_arrow:0, Holly Arrow of levitation
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste
-aoa3:tipped_holly_arrow:0, Holly Arrow of haste2
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance
-aoa3:tipped_holly_arrow:0, Holly Arrow of resistance2
-aoa3:tipped_holly_arrow:0, Holly Arrow of healthboost
-aoa3:tipped_holly_arrow:0, Holly Arrow of luck
-aoa3:tipped_holly_arrow:0, Holly Arrow of wither
-aoa3:tipped_holly_arrow:0, Holly Arrow of blindness
-aoa3:tipped_holly_arrow:0, Holly Arrow of saturation
-aoa3:tipped_holly_arrow:0, Holly Arrow of hunger
-aoa3:holly_top_petals, 冬青花瓣
-aoa3:hot_rod, 烤毛狮肉
-aoa3:hydro_stone, 水能宝石
-aoa3:ice_crystal, 冰之水晶
-aoa3:impure_gold, 掺金
-aoa3:incomplete_mecha_archergun, 不完整的机甲弩
-aoa3:incomplete_mecha_bow, 不完整的机甲弓
-aoa3:incomplete_mecha_cannon, 不完整的机甲加农炮
-aoa3:incomplete_mechanical_assault_rifle, 不完整的机械突击步枪
-aoa3:incomplete_mecha_staff, 不完整的机甲法杖
-aoa3:incomplete_mechyro, 不完整的双管猎枪
-aoa3:ambient_infusion_stone, 宁静的注魔石
-aoa3:blooming_infusion_stone, 盛开的注魔石
-aoa3:glaring_infusion_stone, 耀眼的注魔石
-aoa3:gleaming_infusion_stone, 闪烁的注魔石
-aoa3:glistening_infusion_stone, 闪耀的注魔石
-aoa3:glowing_infusion_stone, 灼热的注魔石
-aoa3:radiant_infusion_stone, 照耀的注魔石
-aoa3:shining_infusion_stone, 华丽的注魔石
-aoa3:amethyst_ingot, 紫晶锭
-aoa3:baronyte_ingot, 硫铁钾锭
-aoa3:blazium_ingot, 虚空锭
-aoa3:elecanium_ingot, 钛锭
-aoa3:emberstone_ingot, 余烬石锭
-aoa3:ghastly_ingot, 阴森锭
-aoa3:ghoulish_ingot, 恐惧锭
-aoa3:jade_ingot, 翡翠锭
-aoa3:limonite_ingot, 褐铁锭
-aoa3:lunar_ingot, 月锭
-aoa3:lyon_ingot, 钢铁锭
-aoa3:mystite_ingot, 神秘锭
-aoa3:rosite_ingot, 硫铜锑锭
-aoa3:rusted_iron_ingot, 生锈的铁锭
-aoa3:sapphire_ingot, 蓝宝石锭
-aoa3:shyregem_ingot, 塞尔瑞宝石锭
-aoa3:shyrestone_ingot, 塞尔瑞石锭
-aoa3:skeletal_ingot, 骷髅锭
-aoa3:varsium_ingot, 镁锭
-aoa3:ironback, 铁背鱼
-aoa3:ivory, 象牙
-aoa3:jungle_thorns, 雨林荆棘
-aoa3:limefish, 柠檬鱼
-aoa3:lunacrike, 紫薯
-aoa3:luna_globe, 卢娜果
-aoa3:lunalons, 月花
-aoa3:lunarade, 月球咖啡
-aoa3:lunarade_mug, 月球咖啡杯
-aoa3:magic_marang, 魔法面包果
-aoa3:magic_mending_compound, 魔法修复剂
-aoa3:magic_mending_solution, 魔法修复液
-aoa3:magic_repair_dust, 魔法修复沙
-aoa3:mecha_gear, 机甲齿轮
-aoa3:mega_rune_fragment_blue, 蓝色超级符文碎片
-aoa3:mega_rune_fragment_green, 绿色超级符文碎片
-aoa3:mega_rune_fragment_red, 红色超级符文碎片
-aoa3:mega_rune_fragment_yellow, 黄色超级符文碎片
-aoa3:mega_rune_stone, 超级符文
-aoa3:metal_slug, 重铅弹
-aoa3:metal_tub, 金属桶
-aoa3:millenium_upgrader, 升级装置：千年
-aoa3:molten_upgrader, 升级装置：熔融
-aoa3:moonstone, 月之沙
-aoa3:mud_ball, 泥球
-aoa3:natural_tea, 天然茶
-aoa3:nature_melon_slice, 天然西瓜
-aoa3:nethengeic_callstone, 纳德吉克召唤石
-aoa3:nightmare_flakes, 噩梦薄片
-aoa3:observing_eye, 观察者之眼
-aoa3:old_boot, 旧靴子
-aoa3:opteryx_feather, 弹跳鸟羽毛
-aoa3:orbulon, 月球宝珠
-aoa3:pearl_stripefish, 珍珠条纹鱼
-aoa3:peppermint_candy, 薄荷糖
-aoa3:petals, 花瓣
-aoa3:phantasm, 幻象血液
-aoa3:pop_shot, 炸弹碎片
-aoa3:ambient_power_stone, 宁静的能量石
-aoa3:blooming_power_stone, 盛开的能量石
-aoa3:glaring_power_stone, 耀眼的能量石
-aoa3:gleaming_power_stone, 闪烁的能量石
-aoa3:glistening_power_stone, 闪耀的能量石
-aoa3:glowing_power_stone, 灼热的能量石
-aoa3:radiant_power_stone, 照耀的能量石
-aoa3:shining_power_stone, 华丽的能量石
-aoa3:primed_ghoulasm, 浓缩恐惧血液
-aoa3:primordial_dust, 原始之尘
-aoa3:primordial_skull, 原始头骨
-aoa3:progress_coin0, 启动硬币
-aoa3:progress_coin1, 通关硬币
-aoa3:progress_coin2, 通关硬币
-aoa3:progress_coin3, 通关硬币
-aoa3:progress_coin4, 通关硬币
-aoa3:pure_coral_stone, 纯珊瑚石
-aoa3:pure_gold, 纯金
-aoa3:pure_rain_stone, 纯雨石
-aoa3:pure_water_stone, 纯水石
-aoa3:rainbowfish, 彩虹鱼
-aoa3:rammerhead_hide, 灰色皮革
-aoa3:razorfish, 剃刀鱼
-aoa3:abyss_realmstone, 深渊纯宝石
-aoa3:ancient_cavern_realmstone, 远古纯宝石
-aoa3:barathos_realmstone, 爵士纯宝石
-aoa3:borean_realmstone, 暴风纯宝石
-aoa3:candyland_realmstone, 糖果纯宝石
-aoa3:celeve_realmstone, 玩具纯宝石
-aoa3:creeponia_realmstone, 蠕变纯宝石
-aoa3:crystevia_realmstone, 晶体纯宝石
-aoa3:deeplands_realmstone, 深层纯宝石
-aoa3:dustopia_realmstone, 异位纯宝石
-aoa3:gardencia_realmstone, 花园纯宝石
-aoa3:haven_realmstone, 天堂纯宝石
-aoa3:immortallis_realmstone, 不朽纯宝石
-aoa3:iromine_realmstone, 黄金纯宝石
-aoa3:lelyetia_realmstone, 赫尔维蒂纯宝石
-aoa3:lunalus_realmstone, 月球纯宝石
-aoa3:mysterium_realmstone, 秘境纯宝石
-aoa3:precasia_realmstone, 传说纯宝石
-aoa3:shyrelands_realmstone, 塞尔瑞纯宝石
-aoa3:vox_ponds_realmstone, 未知纯宝石
-aoa3:realm_travel_ticket, 维票
-aoa3:return_crystal, 传送水晶
-aoa3:rock_bones, 岩骨
-aoa3:rocketfish, 箭鱼
-aoa3:rosidons, 伊甸果
-aoa3:rune_box, 符文箱
-aoa3:charged_rune, 电磁符文
-aoa3:compass_rune, 定位符文
-aoa3:distortion_rune, 扭曲符文
-aoa3:energy_rune, 能量符文
-aoa3:fire_rune, 火焰符文
-aoa3:kinetic_rune, 动能符文
-aoa3:life_rune, 生命符文
-aoa3:lunar_rune, 月符文
-aoa3:poison_rune, 剧毒符文
-aoa3:power_rune, 力量符文
-aoa3:rune_stone, 符石
-aoa3:storm_rune, 暴风符文
-aoa3:strike_rune, 杀戮符文
-aoa3:unpowered_rune, 未充能的符文
-aoa3:water_rune, 水符文
-aoa3:wind_rune, 风符文
-aoa3:wither_rune, 凋灵符文
-aoa3:runic_energy, 符文能量
-aoa3:runium_chunk, 符文块
-aoa3:sailback, 帆背鱼
-aoa3:sapphire_strider, 蔚蓝条纹鱼
-aoa3:scream_shield, 尖叫之盾
-aoa3:bubble_berry_seeds, 泡沫浆果种子
-aoa3:chilli_seeds, 辣椒种子
-aoa3:eye_bulb_seeds, 眼球之种
-aoa3:floracle_seeds, 粉花种子
-aoa3:goldicap_seeds, 金果种子
-aoa3:mystic_shroom_seeds, 神秘菇种
-aoa3:heart_fruit_seeds, 心果种子
-aoa3:holly_top_seeds, 冬青种子
-aoa3:lunacrike_seeds, 紫薯种子
-aoa3:luna_globe_seeds, 卢娜种子
-aoa3:lunalon_seeds, 月花种子
-aoa3:magic_marang_seeds, 魔法面包果种子
-aoa3:rosidon_seeds, 伊甸果种子
-aoa3:tea_seeds, 茶籽
-aoa3:thorny_plant_seeds, 荆棘花种子
-aoa3:trilliad_seeds, 蓝花种子
-aoa3:shiny_box, 闪亮的盒子
-aoa3:shroom_stone, 蘑菇石
-aoa3:silvro_coin, 纯银硬币
-aoa3:giant_skill_crystal, 技能水晶（巨大）
-aoa3:large_skill_crystal, 技能水晶（大）
-aoa3:medium_skill_crystal, 技能水晶（中）
-aoa3:small_skill_crystal, 技能水晶（小）
-aoa3:alluricorn_slab, 神马召唤板
-aoa3:blissard_slab, 白精灵召唤板
-aoa3:compeer_slab, 背甲怪召唤板
-aoa3:construct_of_servility_slab, 奴役概念晶体
-aoa3:corby_slab, 库比召唤板
-aoa3:craggy_slab, 红精灵召唤板
-aoa3:draggy_slab, 粉精灵召唤板
-aoa3:ender_carrier_slab, 末影牛召唤板
-aoa3:gnawer_slab, 吸食者召唤板
-aoa3:goofer_slab, 施法者召唤板
-aoa3:healing_golem_slab, 治疗傀儡召唤板
-aoa3:hellquin_slab, 下界企鹅召唤板
-aoa3:horntail_slab, 稻草人召唤板
-aoa3:mecha_cyclops_slab, 机甲独眼巨人召唤板
-aoa3:mecha_skellox_slab, 机甲独眼兽召唤板
-aoa3:penguin_slab, 企鹅召唤板
-aoa3:plateosaur_slab, 独角怪召唤板
-aoa3:rammerhorn_slab, 锤角怪召唤板
-aoa3:shaddy_slab, 黑精灵召唤板
-aoa3:spikeback_slab, 虚无尖锋召唤板
-aoa3:spraggy_slab, 绿精灵召唤板
-aoa3:waggy_slab, 蓝精灵召唤板
-aoa3:sludge_parasite, 污泥寄生虫
-aoa3:small_blue_petal, 小的蓝花瓣
-aoa3:small_green_petal, 小的绿花瓣
-aoa3:small_orange_petal, 小的橙花瓣
-aoa3:small_purple_petal, 小的紫花瓣
-aoa3:small_red_petal, 小的红花瓣
-aoa3:soulbone, 魂骨
-aoa3:sour_candy, 酸糖果
-aoa3:sour_gummy, 酸软糖
-aoa3:sour_pop, 酸糖
-aoa3:spearmint_candy, 留兰香糖
-aoa3:spreadshot, 霰弹
-aoa3:staring_eye, 凝视之眼
-aoa3:stone_bowl, 石碗
-aoa3:blue_strange_stone, 奇怪的蓝色石头
-aoa3:white_strange_stone, 奇怪的白色石头
-aoa3:yellow_strange_stone, 奇怪的黄色石头
-aoa3:tea, 茶
-aoa3:tea_shreddings, 茶叶
-aoa3:thorny_petals, 荆棘花瓣
-aoa3:abyss_tokens, 深渊代币
-aoa3:baron_tokens, 爵士代币
-aoa3:borean_tokens, 暴风代币
-aoa3:candyland_tokens, 糖果代币
-aoa3:celeve_tokens, 玩具代币
-aoa3:creeponia_tokens, 蠕变代币
-aoa3:crystevia_tokens, 晶体代币
-aoa3:deeplands_tokens, 深层代币
-aoa3:dungeon_tokens, 地牢令牌
-aoa3:dustopia_tokens, 异位代币
-aoa3:gardencia_tokens, 花园代币
-aoa3:greckon_tokens, 格瑞克代币
-aoa3:haven_tokens, 天堂代币
-aoa3:iromine_tokens, 黄金代币
-aoa3:lelyetia_tokens, 赫尔维蒂代币
-aoa3:lunar_tokens, 月球代币
-aoa3:mysterium_tokens, 秘境代币
-aoa3:nether_tokens, 下界代币
-aoa3:precasian_tokens, 传说代币
-aoa3:runandor_tokens, 融化代币
-aoa3:shyrelands_tokens, 塞尔瑞代币
-aoa3:vox_ponds_tokens, 未知代币
-aoa3:abominator_totem, 厌恶者图腾
-aoa3:ancient_bow_totem, 远古之弓图腾
-aoa3:animal_blaster_totem, 动物爆破者图腾
-aoa3:aquatic_staff_totem, 水能法杖图腾
-aoa3:baron_ssr_totem, 爵士SSR图腾
-aoa3:baron_staff_totem, 爵士法杖图腾
-aoa3:bayonette_sr_totem, 刺刀SR图腾
-aoa3:bloodfury_totem, 血之怒图腾
-aoa3:boom_boom_totem, 天启爆炸图腾
-aoa3:creepoid_greatblade_totem, 蠕变巨剑图腾
-aoa3:crystal_maul_totem, 水晶槌图腾
-aoa3:crystaneer_totem, 水晶狙击图腾
-aoa3:daybreaker_totem, 破晓图腾
-aoa3:explochron_sword_totem, 爆破剑图腾
-aoa3:flaming_fury_totem, 熊熊怒火图腾
-aoa3:flowercorne_totem, 花角图腾
-aoa3:froster_totem, 冻结图腾
-aoa3:giga_cannon_totem, 千兆加农图腾
-aoa3:goofy_greatblade_totem, 愚弄巨剑图腾
-aoa3:haunters_rifle_totem, 幽魂枪图腾
-aoa3:luna_blaster_totem, 卢娜冲击波图腾
-aoa3:mecha_blaster_totem, 机械冲击波图腾
-aoa3:mint_magnum_totem, 薄荷枪图腾
-aoa3:noxious_greatblade_totem, 剧毒巨剑图腾
-aoa3:predatious_bow_totem, 自然弓图腾
-aoa3:pulsator_totem, 震动器图腾
-aoa3:purple_punisher_totem, 紫色惩罚者图腾
-aoa3:rosidian_archergun_totem, 伊恩弩图腾
-aoa3:royal_greatblade_totem, 皇家巨剑图腾
-aoa3:sky_staff_totem, 天空法杖图腾
-aoa3:soul_bone_totem, 魂骨图腾
-aoa3:soulfire_bow_totem, 魂焰之弓图腾
-aoa3:sound_cannon_totem, 声波加农图腾
-aoa3:swarmotron_totem, 杀人蜂图腾
-aoa3:terminator_totem, 终结者图腾
-aoa3:tidal_greatblade_totem, 潮汐巨剑图腾
-aoa3:viper1_totem, 蝰蛇-1图腾
-aoa3:viral_archergun_totem, 病毒弩图腾
-aoa3:wart_gun_totem, 下界疣枪图腾
-aoa3:whimsy_winder_totem, Whimsy Winder Totem
-aoa3:wizard_staff_totem, 巫师法杖图腾
-aoa3:toxic_lump, 毒素肿块
-aoa3:toy_gyrocopter, 玩具飞机
-aoa3:treasure_box, 宝藏箱
-aoa3:treat_bag, 零食袋
-aoa3:trilliad_leaves, 蓝花叶子
-aoa3:troll_idol, 巨怪人偶
-aoa3:troll_skull, 巨怪头骨
-aoa3:turquoise_stripefish, 绿松条纹鱼
-aoa3:uncharged_orb, 不带电的球
-aoa3:uncharged_stone, 不带电的石头
-aoa3:abyssal_upgrade_kit, 升级包：深渊
-aoa3:ancient_upgrade_kit, 升级包：远古
-aoa3:apoco_upgrade_kit, 升级包：末世
-aoa3:clown_upgrade_kit, 升级包：小丑
-aoa3:darkly_upgrade_kit, 升级包：暗黑
-aoa3:floro_upgrade_kit, 升级包：花
-aoa3:golden_upgrade_kit, 升级包：黄金
-aoa3:haunted_upgrade_kit, 升级包：颅骨
-aoa3:lelyetian_upgrade_kit, 升级包：蜂巢
-aoa3:light_upgrade_kit, 升级包：闪耀
-aoa3:lunar_upgrade_kit, 升级包：月球
-aoa3:nether_upgrade_kit, 升级包：下界
-aoa3:precasian_upgrade_kit, 升级包：传说
-aoa3:predator_upgrade_kit, 升级包：掠夺者
-aoa3:rocky_upgrade_kit, 升级包：岩石
-aoa3:runic_upgrade_kit, 升级包：符文
-aoa3:seaside_upgrade_kit, 升级包：海洋
-aoa3:smiley_upgrade_kit, 升级包：玩具
-aoa3:urka_hide, 黑色皮革
-aoa3:ursa_meat, 熟熊肉
-aoa3:raw_ursa_meat, 生熊肉
-aoa3:vile_stone, 邪恶石
-aoa3:violet_skipper, 紫鱼
-aoa3:voliant_heart, 天界轰炸机之心
-aoa3:vulcane_augment_battle, 强化：战斗
-aoa3:vulcane_augment_equality, 强化：生命
-aoa3:vulcane_augment_fire, 强化：火焰
-aoa3:vulcane_augment_impairment, 强化：仇恨
-aoa3:vulcane_augment_poison, 强化：剧毒
-aoa3:vulcane_augment_power, 强化：力量
-aoa3:vulcane_augment_wither, 强化：凋灵
-aoa3:warlock_gem, 术士宝石
-aoa3:waterlogged_aqua_cannon, 浸水的水炮
-aoa3:waterlogged_coral_archergun, 浸水的珊瑚弩
-aoa3:waterlogged_coral_cannon, 浸水的珊瑚炮
-aoa3:waterlogged_coral_clogger, 浸水的珊瑚枪
-aoa3:waterlogged_reefer, 浸水的冰冻枪
-aoa3:weapon_parts, 武器零件
-aoa3:weapons_case, 武器箱
-aoa3:whitewashing_solution, 灰色浸染材料
-aoa3:worn_book, 旧书
-aoa3:zhinx_dust, 间线尘
 aoa3:amethyst_axe, 紫晶斧
 aoa3:amethyst_pickaxe, 紫晶镐
 aoa3:amethyst_shovel, 紫晶锹
@@ -7501,431 +7895,10 @@ aoa3:soulstone_shovel, 灵魂锹
 aoa3:pickmax, 萃取镐
 aoa3:gemcracker, 裂解镐
 aoa3:chainsaw, 电锯
-aoa3:amethyst_sword, 紫晶剑
-aoa3:baron_sword, 爵士剑
-aoa3:bloodfury, 血之怒
-aoa3:bloodstone_sword, 血石剑
-aoa3:candlefire_sword, 炎烛剑
-aoa3:caramel_carver, 焦糖剑
-aoa3:coralstorm_sword, 珊瑚剑
-aoa3:creepified_sword, 蠕变剑
-aoa3:crystallite_sword, 微晶剑
-aoa3:emberstone_sword, 余烬剑
-aoa3:explochron_sword, 爆破剑
-aoa3:fireborne_sword, 超炎剑
-aoa3:guardians_sword, 监护者之剑
-aoa3:harvester_sword, 收割剑
-aoa3:holy_sword, 圣剑
-aoa3:illusion_sword, 幻觉剑
-aoa3:jade_sword, 翡翠剑
-aoa3:legbone_sword, 腿骨剑
-aoa3:lights_way, 光明之路
-aoa3:limonite_sword, 褐铁剑
-aoa3:nethengeic_sword, 纳德吉克剑
-aoa3:rockbasher_sword, 岩击剑
-aoa3:rock_pick_sword, 岩神剑
-aoa3:rosidian_sword, 伊恩剑
-aoa3:rosite_sword, 硫铜锑剑
-aoa3:runic_sword, 符文剑
-aoa3:sapphire_sword, 蓝宝石剑
-aoa3:shadow_sword, 暗影剑
-aoa3:shroomus_sword, 真菌剑
-aoa3:skeletal_sword, 骷髅剑
-aoa3:supremacy_sword, 紫晶槌
-aoa3:sweet_sword, 糖果剑
-aoa3:troll_basher_axe, 巨怪爆裂斧
-aoa3:ultraflame, 烈焰剑
-aoa3:void_sword, 虚空剑
-aoa3:vulcammer_sword, 浊流剑
-aoa3:baron_greatblade, 爵士巨剑
-aoa3:candy_blade, 糖果巨剑
-aoa3:coral_greatblade, 珊瑚巨剑
-aoa3:cotton_crusher, 棉花破碎机
-aoa3:creepoid_greatblade, 蠕变巨剑
-aoa3:crystal_greatblade, 水晶巨剑
-aoa3:erebon_scythe, 埃瑞本之镰
-aoa3:gods_greatblade, 神之巨剑
-aoa3:goofy_greatblade, 愚弄巨剑
-aoa3:grandsword, 巨剑
-aoa3:haunted_greatblade, 困扰巨剑
-aoa3:knights_guard, 骑士巨剑
-aoa3:lelyetian_greatblade, 赫尔维蒂巨剑
-aoa3:lunar_greatblade, 月球巨剑
-aoa3:luxon_scythe, 卢克森之镰
-aoa3:lyonic_greatblade, 愤怒巨剑
-aoa3:millenium_greatblade, 千年巨剑
-aoa3:noxious_greatblade, 剧毒巨剑
-aoa3:pluton_scythe, 普洛顿之镰
-aoa3:primordial_greatblade, 原始巨剑
-aoa3:rosidian_greatblade, 伊恩巨剑
-aoa3:royal_greatblade, 皇家巨剑
-aoa3:runic_greatblade, 符文巨剑
-aoa3:selyan_scythe, 塞里安之镰
-aoa3:shroomic_greatblade, 蘑菇巨剑
-aoa3:shyre_sword, 塞尔瑞巨剑
-aoa3:subterranean_greatblade, 地下巨剑
-aoa3:tidal_greatblade, 潮汐巨剑
-aoa3:underworld_greatblade, 冥界巨剑
-aoa3:crystal_maul, 水晶槌
-aoa3:horizon_maul, 地平槌
-aoa3:coralstone_maul, 珊瑚槌
-aoa3:abominator, 厌恶者
-aoa3:apoco_assault_rifle, 末世突击步枪
-aoa3:apoco_rifle, 末世步枪
-aoa3:aqua_magnum, 水之马格南
-aoa3:artifact, 伪影
-aoa3:baronator, 爵士爆破
-aoa3:bayonette_rifle, 刺刀步枪
-aoa3:big_top, 超越
-aoa3:blood_iron, 血之铁器
-aoa3:chain_wrecker, 锁链肇事者
-aoa3:chilli_chugger, 辣椒枪
-aoa3:clownershot, 小丑步枪
-aoa3:construct, 概念
-aoa3:coral_clogger, 珊瑚枪
-aoa3:core_rifle, 原始步枪
-aoa3:crystal_carver, 水晶雕刻机
-aoa3:cyclone, 旋风
-aoa3:darkener, 暗黑步枪
-aoa3:dart_gun, 投掷枪
-aoa3:destruction_rifle, 毁灭电磁枪
-aoa3:discharge_rifle, 雷暴步枪
-aoa3:draco, 天龙座
-aoa3:dragilator, 爆炎
-aoa3:dustometer, 机械爆破枪
-aoa3:echo_gull, 回音海鸥
-aoa3:electinator, 疾雷
-aoa3:flame_wrecker, 火焰肇事者
-aoa3:flaming_fury, 熊熊怒火
-aoa3:floro_rifle, 花之步枪
-aoa3:flowers_fury, 花之愤怒
-aoa3:frosticator, 阻碍
-aoa3:gardener, 园丁
-aoa3:gauge_rifle, 量规步枪
-aoa3:germinator, 催生者
-aoa3:golden_fury, 黄金怒火
-aoa3:happy_haunter, 快乐的幽魂
-aoa3:haunter_rifle, 幽魂枪
-aoa3:heat_wave, 高温枪
-aoa3:hiver, 招蜂器
-aoa3:hot_shot, 炎热枪
-aoa3:hunters_rifle, 猎人步枪
-aoa3:iominator, 绿炎
-aoa3:ion_revolver, 离子枪
-aoa3:iro_rifle, 黄金步枪
-aoa3:krilinator, 暴风
-aoa3:light_iron, 闪耀铁器
-aoa3:lunar_assault_rifle, 月球突击步枪
-aoa3:mechanical_assault_rifle, 机械突击步枪
-aoa3:megagun, 巨型枪
-aoa3:miasma, 瘴气
-aoa3:minigun, MiNi枪
-aoa3:mint_magnum, 薄荷枪
-aoa3:mk, M-K
-aoa3:mk_fung, MK-锋
-aoa3:nethenette_rifle, 下界步枪
-aoa3:nethengeic_slugger, 纳德吉克巨炮
-aoa3:overshot, 过冲
-aoa3:precasian_slugger, 谨慎电击者
-aoa3:predator, 掠夺者
-aoa3:predigun, 预测枪
-aoa3:pulsator, 震动器
-aoa3:purity_rifle, 纯净电磁枪
-aoa3:rocker_rifle, 摇臂式步枪
-aoa3:roulette, 左轮
-aoa3:shoe_flinger, 旧靴子
-aoa3:skullette, 颅骨左轮
-aoa3:skullifact, 颅骨步枪
-aoa3:spectacle, 奇幻
-aoa3:spine_gun, 脊柱枪
-aoa3:squad_gun, 小队机枪
-aoa3:stampede, 牛仔手枪
-aoa3:stormer, 暴风雨
-aoa3:sublimus, 断离
-aoa3:tiger_tommy, 虎皮汤姆逊
-aoa3:tommy, 汤姆逊冲锋枪
-aoa3:vile_vanquisher, 邪恶征服者
-aoa3:wart_gun, 下界疣枪
-aoa3:wrecker, 肇事者
-aoa3:abyssro, 深渊
-aoa3:amplifier, 破灭者
-aoa3:blast_barrel, 爆破筒
-aoa3:blue_barrel, 蓝管
-aoa3:boulder, 巨砾
-aoa3:brown_blaster, 棕色冲击者
-aoa3:demolisher, 破坏者
-aoa3:destruction_shotgun, 毁灭镭射枪
-aoa3:discharge_shotgun, 爆炸霰弹
-aoa3:gimmick, 暗机关
-aoa3:ginger_blaster, 姜炮
-aoa3:long_shot, 长杆猎枪
-aoa3:mechyro, 双管猎枪
-aoa3:purity_shotgun, 纯净镭射枪
-aoa3:purple_punisher, 紫色惩罚者
-aoa3:red_rocket, 红色火箭
-aoa3:vivo, 威武
-aoa3:baron_ssr, 爵士SSR
-aoa3:bayonette_sr, 刺刀SR
-aoa3:bolt_rifle, 螺栓狙击
-aoa3:camo_rifle, 迷彩狙击
-aoa3:clown_cracker, 玩具裂解
-aoa3:clownimator, 小丑助推器
-aoa3:crystaneer, 水晶狙击
-aoa3:dark_beast, 暗黑野兽
-aoa3:deadlock, 致命枷锁
-aoa3:decimator, 灭绝
-aoa3:discharge_sniper, 雷暴狙击
-aoa3:dual_sight, 双重视野
-aoa3:duster, 喷粉机
-aoa3:floro500, 花-500
-aoa3:head_hunter, 猎人之首
-aoa3:hive_cracker, 蜂巢裂解
-aoa3:ka500, 卡-500
-aoa3:mark_maker, 马克制造者
-aoa3:mineral, 矿物
-aoa3:monster, 怪物
-aoa3:moon_maker, 月亮制造者
-aoa3:rosid_rifle, 蔷薇狙击
-aoa3:sabbath, 安息
-aoa3:sludge_sniper, 污泥狙击
-aoa3:sweet_tooth, 糖果之牙
-aoa3:terminator, 终结者
-aoa3:viper1, 蝰蛇-1
-aoa3:ancient_bomber, 远古爆裂者
-aoa3:ancient_discharger, 远古雷暴
-aoa3:aqua_cannon, 水之加农炮
-aoa3:balloon_bomber, 气球轰炸机
-aoa3:big_blast, 巨炮
-aoa3:blast_cannon, 爆破毁灭者
-aoa3:blissful_blast, 极乐的冲击波
-aoa3:bomb_launcher, 打击者
-aoa3:boom_boom, 天启爆炸
-aoa3:boom_cannon, 爆裂加农
-aoa3:boulder_bomber, 巨石轰炸机
-aoa3:bozo_blaster, 傻瓜冲击波
-aoa3:bulb_cannon, 凋灵加农炮
-aoa3:carrot_cannon, 胡萝卜炮
-aoa3:clown_cannon, 玩具炮
-aoa3:clowno_pulse, 小丑巨炮
-aoa3:coral_cannon, 珊瑚加农炮
-aoa3:discharge_cannon, 雷暴加农
-aoa3:energy_cannon, 能量加农炮
-aoa3:erebon_stickler, 埃瑞本之触
-aoa3:floro_rpg, 花之RPG
-aoa3:flower_cannon, 花之加农炮
-aoa3:fungal_cannon, 真菌加农炮
-aoa3:ghast_blaster, 爆破恐惧
-aoa3:ghoul_cannon, 恐惧加农炮
-aoa3:giga_cannon, 千兆加农
-aoa3:golder_bomber, 黄金轰炸机
-aoa3:hive_blaster, 蜂巢冲击波
-aoa3:hive_howitzer, 蜂巢榴弹炮
-aoa3:iro_cannon, 铁炮
-aoa3:jack_funger, 杰克加农炮
-aoa3:jack_rocker, 摇滚杰克
-aoa3:luxon_stickler, 卢克森之触
-aoa3:mecha_cannon, 机甲加农炮
-aoa3:mini_cannon, MiNi加农
-aoa3:missile_maker, 导弹制造者
-aoa3:moon_cannon, 月亮炮
-aoa3:pluton_stickler, 普洛顿之触
-aoa3:predatorian_blaster, 爆破恐惧王
-aoa3:pulse_cannon, 脉冲炮
-aoa3:rpg, RPG
-aoa3:selyan_stickler, 塞里安之触
-aoa3:shadow_blaster, 暗影冲击者
-aoa3:shyre_blaster, 塞尔瑞冲击波
-aoa3:smile_blaster, 微笑的冲击波
-aoa3:super_cannon, 超加农
-aoa3:ultra_cannon, 极限加农
-aoa3:vox_cannon, 未知加农炮
-aoa3:water_balloon_bomber, 水球轰炸机
-aoa3:wither_cannon, 凋灵加农
-aoa3:grenade, 手榴弹
-aoa3:slice_star, 螺旋镖
-aoa3:vulkram, 治疗环刃
-aoa3:chakram, 剧毒环刃
-aoa3:runic_bomb, 符文炸弹
-aoa3:goo_ball, 粘粘球
-aoa3:hellfire, AGM-114地域火反坦克导弹
-aoa3:vulcane, 浊流之杖
-aoa3:battle_vulcane, 浊流：战斗
-aoa3:equality_vulcane, 浊流：生命
-aoa3:fire_vulcane, 浊流：火焰
-aoa3:impairment_vulcane, 浊流：仇恨
-aoa3:poison_vulcane, 浊流：剧毒
-aoa3:power_vulcane, 浊流：力量
-aoa3:wither_vulcane, 浊流：凋灵
-aoa3:alacrity_bow, 敏捷之弓
-aoa3:ancient_bow, 远古之弓
-aoa3:atlantic_bow, 冰冻弓
-aoa3:baron_bow, 爵士弓
-aoa3:boreic_bow, 命运弓
-aoa3:daybreaker_bow, 破晓弓
-aoa3:deep_bow, 深层弓
-aoa3:explosive_bow, 爆裂弓
-aoa3:haunted_bow, 困扰弓
-aoa3:ice_bow, 冰之弓
-aoa3:infernal_bow, 下界弓
-aoa3:justice_bow, 正义之弓
-aoa3:lunar_bow, 月球弓
-aoa3:mecha_bow, 机甲弓
-aoa3:nightmare_bow, 噩梦之弓
-aoa3:poison_bow, 剧毒之弓
-aoa3:predatious_bow, 自然弓
-aoa3:primordial_bow, 原始弓
-aoa3:rosidian_bow, 伊恩弓
-aoa3:runic_bow, 符文之弓
-aoa3:screamer_bow, 尖叫之弓
-aoa3:shyregem_bow, 塞尔瑞宝石弓
-aoa3:skeletal_bow, 骷髅之弓
-aoa3:skydriver_bow, 酸性弓
-aoa3:slingshot, Y型弹弓
-aoa3:soulfire_bow, 魂焰之弓
-aoa3:spectral_bow, 光谱弓
-aoa3:speed_bow, 极速弓
-aoa3:sunshine_bow, 日照弓
-aoa3:toxin_bow, 毒素弓
-aoa3:void_bow, 虚空之弓
-aoa3:weaken_bow, 削弱之弓
-aoa3:wither_bow, 凋灵之弓
-aoa3:coral_archergun, 珊瑚弩
-aoa3:lunar_archergun, 月球弩
-aoa3:mecha_archergun, 机甲弩
-aoa3:pyro_archergun, 火焰弩
-aoa3:rosidian_archergun, 伊恩弩
-aoa3:skeletal_archergun, 骷髅弩
-aoa3:spectral_archergun, 光谱弩
-aoa3:trolls_archergun, 巨怪弩
-aoa3:viral_archergun, 病毒弩
-aoa3:aquatic_staff, 水能法杖
-aoa3:atlantic_staff, 冰冻法杖
-aoa3:baron_staff, 爵士法杖
-aoa3:candy_staff, 糖果法杖
-aoa3:celestial_staff, 天朝法杖
-aoa3:concussion_staff, 震荡法杖
-aoa3:coral_staff, 珊瑚之杖
-aoa3:crystal_staff, 晶体法杖
-aoa3:crystik_staff, 结晶法杖
-aoa3:cryston_staff, 水晶法杖
-aoa3:destruction_staff, 毁灭法杖
-aoa3:ember_staff, 余烬之杖
-aoa3:everfight_staff, 战斗光环法杖
-aoa3:evermight_staff, 力量光环法杖
-aoa3:fire_staff, 火焰法杖
-aoa3:firefly_staff, 萤火虫法杖
-aoa3:firestorm_staff, 烈焰风暴
-aoa3:fungal_staff, 真菌法杖
-aoa3:ghoul_staff, 恐惧法杖
-aoa3:haunters_staff, 幽魂法杖
-aoa3:hive_staff, 蜂巢法杖
-aoa3:joker_staff, 玩具法杖
-aoa3:kaiyu_staff, 开宇之杖
-aoa3:lightning_staff, 闪电之杖
-aoa3:lightshine, 光芒法杖
-aoa3:lunar_staff, 月球法杖
-aoa3:lyonic_staff, 愤怒法杖
-aoa3:mecha_staff, 机甲法杖
-aoa3:meteor_staff, 流星法杖
-aoa3:moonlight_staff, 月光法杖
-aoa3:nature_staff, 自然法杖
-aoa3:nightmare_staff, 噩梦之杖
-aoa3:noxious_staff, 毒性法杖
-aoa3:phantom_staff, 幻象之杖
-aoa3:poison_staff, 剧毒法杖
-aoa3:power_staff, 力量法杖
-aoa3:primordial_staff, 原始法杖
-aoa3:reef_staff, 暗礁法杖
-aoa3:rejuvenation_staff, 回春之杖
-aoa3:rosidian_staff, 伊恩法杖
-aoa3:runic_staff, 符文之杖
-aoa3:shadowlord_staff, 暗影领主魔杖
-aoa3:show_staff, 狂欢法杖
-aoa3:shyre_staff, 塞尔瑞法杖
-aoa3:sky_staff, 天空法杖
-aoa3:striker_staff, 杀戮法杖
-aoa3:sun_staff, 太阳法杖
-aoa3:surge_staff, 波涛之杖
-aoa3:tangle_staff, 困惑之杖
-aoa3:ultimatum_staff, 消失法杖
-aoa3:underworld_staff, 冥界法杖
-aoa3:water_staff, 水之法杖
-aoa3:web_staff, 网之棍
-aoa3:wind_staff, 风之法杖
-aoa3:wither_staff, 凋灵法杖
-aoa3:wizards_staff, 巫师法杖
-aoa3:apoco_shower, 末世喷射器
-aoa3:atomizer, 喷射器
-aoa3:beamer, 光束
-aoa3:bear_blaster, 熊之冲击者
-aoa3:beat_sound_cannon, 节奏加农
-aoa3:bee_blaster, 蜜蜂冲击者
-aoa3:blast_chiller, 极光
-aoa3:blood_drainer, 嗜血
-aoa3:bone_blaster, 骨之冲击者
-aoa3:bubble_horn, 泡沫号角
-aoa3:camel_cannon, 骆驼加农
-aoa3:colour_cannon, 色彩加农
-aoa3:confetti_cannon, 彩花加农
-aoa3:confetti_cluster, 烟花发射器
-aoa3:dark_destroyer, 黑暗毁灭者
-aoa3:darkly_guster, 暗黑狂风
-aoa3:death_ray, 死亡射线
-aoa3:deer_detonator, 小鹿枪
-aoa3:doom_bringer, 末日使者
-aoa3:dragon_destroyer, 巨龙毁灭者
-aoa3:electro_sound_cannon, 电音加农
-aoa3:eradicator, 根除者
-aoa3:fish_fryer, 小鱼水枪
-aoa3:flowercorne, 花角
-aoa3:fragment, 破碎
-aoa3:froster, 冻结
-aoa3:gas_blaster, 气流冲击波
-aoa3:ghoul_gasser, 恐惧气孔
-aoa3:gold_bringer, 黄金使者
-aoa3:gravity_blaster, 重力冲击者
-aoa3:hell_horn, 下界号角
-aoa3:hound_honcho, 猎犬町
-aoa3:illusion_revolver, 幻觉左轮
-aoa3:illusion_smg, 幻觉SMG
-aoa3:ion_blaster, 离子炮
-aoa3:iro_miner, 钢铁冲击者
-aoa3:laser_blaster, 激光冲击波
-aoa3:light_blaster, 闪耀冲击者
-aoa3:light_spark, 闪耀火花
-aoa3:luna_blaster, 卢娜冲击波
-aoa3:mecha_blaster, 机械冲击波
-aoa3:mind_blaster, 心灵冲击者
-aoa3:moon_destroyer, 月亮毁灭者
-aoa3:moon_shiner, 月光
-aoa3:odious, 仇恨
-aoa3:orbocron, 轨旋管
-aoa3:paralyzer, 麻痹
-aoa3:party_popper, 派对庆祝者
-aoa3:penguin_blaster, 动物爆破者
-aoa3:poison_plunger, 剧毒喷射器
-aoa3:power_ray, 强力镭射
-aoa3:proton, 粒子冲击波
-aoa3:reefer, 冰冻枪
-aoa3:revolution, 怒火
-aoa3:seaocron, 海之巨炮
-aoa3:skullo_blaster, 颅骨冲击波
-aoa3:soul_drainer, 噬魂者
-aoa3:soul_spark, 灵魂火花
-aoa3:soul_storm, 灵魂风暴
-aoa3:spirit_shower, 精神涤荡者
-aoa3:step_sound_cannon, 步调加农
-aoa3:swarmotron, 杀人蜂
-aoa3:synth_sound_cannon, 合成加农
-aoa3:toxic_terrorizer, 剧毒恐慌
-aoa3:vibe_sound_cannon, 震音加农
-aoa3:vortex_blaster, 漩涡枪
-aoa3:whimsy_winder, 奇妙的络筒机
-aoa3:withers_wrath, 凋灵之怒
-betterwithmods:breeding_harness, 动物育种套
 betterwithmods:long_friend, 挚友方块
 betterwithmods:detector_rail_steel, 熔魂钢质探测器轨道
 betterwithmods:detector_rail_stone, 石质探测器轨道
+betterwithmods:breeding_harness, 动物育种套
 betterwithmods:anchor, 滑轮锚
 betterwithmods:rope, 麻绳
 betterwithmods:single_machine:0, 磨石
@@ -8274,49 +8247,23 @@ betterwithmods:wool_boots, 羊毛鞋
 betterwithmods:wool_chest, 羊毛衬衫
 betterwithmods:wool_helmet, 羊毛帽
 betterwithmods:wool_pants, 羊毛裤
-betterwithmods:siding_rock, %s半板
 betterwithmods:siding_ground, 半板
+betterwithmods:siding_rock, %s半板
+betterwithmods:siding_iron, %s半板
 betterwithmods:siding_clay, 半板
 betterwithmods:siding_wood, %s半板
-betterwithmods:siding_iron, %s半板
-betterwithmods:moulding_rock, %s条
 betterwithmods:moulding_ground, 条
+betterwithmods:moulding_rock, %s条
+betterwithmods:moulding_iron, %s条
 betterwithmods:moulding_clay, 条
 betterwithmods:moulding_wood, %s条
-betterwithmods:moulding_iron, %s条
-betterwithmods:corner_rock, %s边角
 betterwithmods:corner_ground, 边角
+betterwithmods:corner_rock, %s边角
+betterwithmods:corner_iron, %s边角
 betterwithmods:corner_clay, 边角
 betterwithmods:corner_wood, %s边角
-betterwithmods:corner_iron, %s边角
 akashictome:tome, item.tome.name
 morphtool:tool, item.tool.name
-quark:pirate_hat, 海盗帽（带沿）
-quark:marble:0, 大理石
-quark:marble:1, 磨制大理石
-quark:stone_marble_slab:0, 大理石台阶
-quark:stone_marble_stairs, tile.stone_marble_stairs.name
-quark:marble_wall, tile.marble_wall.name
-quark:limestone:0, 石灰石
-quark:limestone:1, 磨制石灰石
-quark:stone_limestone_slab:0, 石灰石台阶
-quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
-quark:limestone_wall, tile.limestone_wall.name
-quark:soul_bead, item.soul_bead.name
-quark:biotite_ore, tile.biotite_ore.name
-quark:biotite_block:0, 云母块
-quark:biotite_block:1, 錾制云母块
-quark:biotite_block:2, 竖纹云母块
-quark:biotite, item.biotite.name
-quark:biotite_slab:0, 云母台阶
-quark:biotite_stairs, tile.biotite_stairs.name
-quark:biotite_wall, tile.biotite_wall.name
-quark:basalt:0, 玄武岩
-quark:basalt:1, 磨制玄武岩
-quark:stone_basalt_slab:0, 玄武岩台阶
-quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
-quark:basalt_wall, tile.basalt_wall.name
-quark:smoker, 烟口
 quark:glowstone_dust_block, tile.glowstone_dust_block.name
 quark:gunpowder_block, tile.gunpowder_block.name
 quark:arrow_ender, item.arrow_ender.name
@@ -8349,6 +8296,7 @@ quark:parrot_egg:2, 绿色鹦鹉蛋
 quark:parrot_egg:3, 青色鹦鹉蛋
 quark:parrot_egg:4, 灰色鹦鹉蛋
 quark:enderdragon_scale, item.enderdragon_scale.name
+quark:witch_hat, item.witch_hat.name
 quark:sandstone_new:0, 磨制砂岩
 quark:sandstone_new:1, 砂岩砖
 quark:sandstone_new:2, 磨制红砂岩
@@ -8643,13 +8591,6 @@ quark:quilted_wool:12, 棕色缝边羊毛
 quark:quilted_wool:13, 绿色缝边羊毛
 quark:quilted_wool:14, 红色缝边羊毛
 quark:quilted_wool:15, 黑色缝边羊毛
-quark:chute, 滑槽漏斗
-quark:redstone_randomizer, tile.redstone_randomizer.name
-quark:iron_button, tile.iron_button.name
-quark:gold_button, tile.gold_button.name
-quark:iron_rod, tile.iron_rod.name
-quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
-quark:rain_detector, tile.rain_detector.name
 quark:spruce_trapdoor, tile.spruce_trapdoor.name
 quark:birch_trapdoor, tile.birch_trapdoor.name
 quark:jungle_trapdoor, tile.jungle_trapdoor.name
@@ -8743,7 +8684,39 @@ quark:jungle_button, tile.jungle_button.name
 quark:acacia_button, tile.acacia_button.name
 quark:dark_oak_button, tile.dark_oak_button.name
 quark:glass_item_frame, item.glass_item_frame.name
-quark:witch_hat, item.witch_hat.name
+quark:chute, 滑槽漏斗
+quark:redstone_randomizer, tile.redstone_randomizer.name
+quark:iron_button, tile.iron_button.name
+quark:gold_button, tile.gold_button.name
+quark:iron_rod, tile.iron_rod.name
+quark:obsidian_pressure_plate, tile.obsidian_pressure_plate.name
+quark:rain_detector, tile.rain_detector.name
+quark:pirate_hat, 海盗帽（带沿）
+quark:marble:0, 大理石
+quark:marble:1, 磨制大理石
+quark:stone_marble_slab:0, 大理石台阶
+quark:stone_marble_stairs, tile.stone_marble_stairs.name
+quark:marble_wall, tile.marble_wall.name
+quark:limestone:0, 石灰石
+quark:limestone:1, 磨制石灰石
+quark:stone_limestone_slab:0, 石灰石台阶
+quark:stone_limestone_stairs, tile.stone_limestone_stairs.name
+quark:limestone_wall, tile.limestone_wall.name
+quark:soul_bead, item.soul_bead.name
+quark:biotite_ore, tile.biotite_ore.name
+quark:biotite_block:0, 云母块
+quark:biotite_block:1, 錾制云母块
+quark:biotite_block:2, 竖纹云母块
+quark:biotite, item.biotite.name
+quark:biotite_slab:0, 云母台阶
+quark:biotite_stairs, tile.biotite_stairs.name
+quark:biotite_wall, tile.biotite_wall.name
+quark:basalt:0, 玄武岩
+quark:basalt:1, 磨制玄武岩
+quark:stone_basalt_slab:0, 玄武岩台阶
+quark:stone_basalt_stairs, tile.stone_basalt_stairs.name
+quark:basalt_wall, tile.basalt_wall.name
+quark:smoker, 烟口
 betterwithaddons:banner_detector:0, 旗帜检测器
 betterwithaddons:world_scale:0, 世界守护砖[弃用]
 betterwithaddons:world_scale_ore:0, 世界守护矿石[弃用]
@@ -10738,6 +10711,27 @@ simplyacceleration:accelerator, Accelerator
 simplyacceleration:linking_tool, Linking Tool
 snad:snad:0, 子沙
 snad:snad:1, 红子沙
+storagedrawers:upgrade_template, 升级模板
+storagedrawers:upgrade_storage:0, 抽屉容量升级（I）
+storagedrawers:upgrade_storage:1, 抽屉容量升级（II）
+storagedrawers:upgrade_storage:2, 抽屉容量升级（III）
+storagedrawers:upgrade_storage:3, 抽屉容量升级（IV）
+storagedrawers:upgrade_storage:4, 抽屉容量升级（V）
+storagedrawers:upgrade_one_stack, 存储降级
+storagedrawers:upgrade_status:0, 状态显示升级（I）
+storagedrawers:upgrade_status:1, 状态显示升级（II）
+storagedrawers:upgrade_void, 清空升级
+storagedrawers:upgrade_conversion, 转换升级
+storagedrawers:upgrade_creative:0, 创造模式容量升级
+storagedrawers:upgrade_creative:1, 创造模式取出升级
+storagedrawers:upgrade_redstone:0, 红石升级
+storagedrawers:upgrade_redstone:1, 红石升级（最大）
+storagedrawers:upgrade_redstone:2, 红石升级（最小）
+storagedrawers:drawer_key, 抽屉钥匙
+storagedrawers:shroud_key, 屏蔽钥匙
+storagedrawers:personal_key, 私人钥匙
+storagedrawers:quantify_key, 量化钥匙
+storagedrawers:tape, 打包带
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
 storagedrawers:basicdrawers:0, 基础抽屉
@@ -10788,27 +10782,6 @@ storagedrawers:customdrawers:2, 2x2 镶框抽屉
 storagedrawers:customdrawers:3, 1x2 小型镶框抽屉
 storagedrawers:customdrawers:4, 2x2 小型镶框抽屉
 storagedrawers:customtrim, 镶框
-storagedrawers:upgrade_template, 升级模板
-storagedrawers:upgrade_storage:0, 抽屉容量升级（I）
-storagedrawers:upgrade_storage:1, 抽屉容量升级（II）
-storagedrawers:upgrade_storage:2, 抽屉容量升级（III）
-storagedrawers:upgrade_storage:3, 抽屉容量升级（IV）
-storagedrawers:upgrade_storage:4, 抽屉容量升级（V）
-storagedrawers:upgrade_one_stack, 存储降级
-storagedrawers:upgrade_status:0, 状态显示升级（I）
-storagedrawers:upgrade_status:1, 状态显示升级（II）
-storagedrawers:upgrade_void, 清空升级
-storagedrawers:upgrade_conversion, 转换升级
-storagedrawers:upgrade_creative:0, 创造模式容量升级
-storagedrawers:upgrade_creative:1, 创造模式取出升级
-storagedrawers:upgrade_redstone:0, 红石升级
-storagedrawers:upgrade_redstone:1, 红石升级（最大）
-storagedrawers:upgrade_redstone:2, 红石升级（最小）
-storagedrawers:drawer_key, 抽屉钥匙
-storagedrawers:shroud_key, 屏蔽钥匙
-storagedrawers:personal_key, 私人钥匙
-storagedrawers:quantify_key, 量化钥匙
-storagedrawers:tape, 打包带
 thaumicenergistics:infusion_provider, 源质供应器
 thaumicenergistics:essentia_cell_1k, 1k-ME源质存储元件
 thaumicenergistics:essentia_cell_4k, 4k-ME源质存储元件
@@ -10828,6 +10801,13 @@ thaumicenergistics:essentia_component_16k, 16k-ME源质存储组件
 thaumicenergistics:essentia_component_64k, 64k-ME源质存储组件
 thaumicenergistics:upgrade_arcane, 奥术充能升级
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
+thaumictinkerer:share_book, 知识共享之书
+thaumictinkerer:cleaning_talisman, 防身护身符
+thaumictinkerer:black_quartz, 烟黑石英
+thaumictinkerer:connector, 矢量变换绑定器
+thaumictinkerer:soul_mould, item.thaumictinkerer:soul_mould.name
+thaumictinkerer:energetic_nitor, 超能闪耀之光
+thaumictinkerer:form_revealer, 多方块结构映射器
 thaumictinkerer:funnel, 源质漏斗
 thaumictinkerer:dissimulation, 伪装方块
 thaumictinkerer:transvector_interface, 矢量变换接口
@@ -10837,23 +10817,14 @@ thaumictinkerer:magnet, 奥术磁铁
 thaumictinkerer:mob_magnet, 奥术生物磁铁
 thaumictinkerer:osmotic_enchanter, 渗透附魔台
 thaumictinkerer:black_quartz_block, 烟黑石英块
-thaumictinkerer:share_book, 知识共享之书
-thaumictinkerer:cleaning_talisman, 防身护身符
-thaumictinkerer:black_quartz, 烟黑石英
-thaumictinkerer:connector, 矢量变换绑定器
-thaumictinkerer:soul_mould, item.thaumictinkerer:soul_mould.name
-thaumictinkerer:energetic_nitor, 超能闪耀之光
-thaumictinkerer:form_revealer, 多方块结构映射器
 uppers:upper, 上吸漏斗
 wct:wct, 无线合成终端
 wct:wct_creative, 创造模式无线合成终端
 wct:magnet_card, 磁卡
-cuisine:iron_spatula, 炒菜铲
-cuisine:ingredient, item.cuisine.ingredient.name
-cuisine:manual, 烹饪笔记
-cuisine:spice_bottle:0, 调料瓶
-cuisine:placed_dish, 盘子
-cuisine:frying_pan, item.cuisine.frying_pan.name
+cuisine:drinkro, Drinkro™
+cuisine:mortar:0, 臼
+cuisine:mortar:1, 装水的臼
+cuisine:boat, 柑橘木船
 cuisine:crops:0, 花生
 cuisine:crops:1, 芝麻
 cuisine:crops:2, 大豆
@@ -10876,20 +10847,13 @@ cuisine:crops:18, 洋葱
 cuisine:crops:19, 茄子
 cuisine:crops:20, 菠菜
 cuisine:crops:21, 竹笋
-cuisine:mortar:0, 臼
-cuisine:mortar:1, 装水的臼
-cuisine:glass_bottle, %s瓶
-cuisine:material:0, 木手臂
-cuisine:material:1, 木手柄
-cuisine:material:2, 盐
-cuisine:material:3, 粗盐
-cuisine:material:4, 辣椒粉
-cuisine:material:5, 花椒粉
-cuisine:material:6, 竹炭
-cuisine:material:7, 粗制糖
-cuisine:fan, 扇子
 cuisine:wok, 锅
-cuisine:kitchen_knife, 菜刀
+cuisine:drink, 饮品
+cuisine:manual, 烹饪笔记
+cuisine:placed_dish, 盘子
+cuisine:spice_bottle:0, 调料瓶
+cuisine:fan, 扇子
+cuisine:glass_bottle, %s瓶
 cuisine:food:0, 豆腐
 cuisine:food:1, 面粉
 cuisine:food:2, 面团
@@ -10906,12 +10870,27 @@ cuisine:food:12, 甜橙
 cuisine:food:13, 柠檬
 cuisine:food:14, 西柚
 cuisine:food:15, 酸橙
+cuisine:kitchen_knife, 菜刀
+cuisine:material:0, 木手臂
+cuisine:material:1, 木手柄
+cuisine:material:2, 盐
+cuisine:material:3, 粗盐
+cuisine:material:4, 辣椒粉
+cuisine:material:5, 花椒粉
+cuisine:material:6, 竹炭
+cuisine:material:7, 粗制糖
 cuisine:door, 柑橘木门
-cuisine:drinkro, Drinkro™
-cuisine:boat, 柑橘木船
+cuisine:frying_pan, item.cuisine.frying_pan.name
+cuisine:iron_spatula, 炒菜铲
 cuisine:dish, 菜品
-cuisine:drink, 饮品
+cuisine:ingredient, item.cuisine.ingredient.name
+cuisine:tofu_block, 豆腐块
+researchtable:table, 研究台
+cuisine:planks, 柑橘木板
 cuisine:trapdoor, 柑橘木活板门
+cuisine:wooden_basin, 木盆
+cuisine:log, 柑橘木
+cuisine:earthen_basin, 陶盆
 cuisine:fire_pit:0, 火塘
 cuisine:fire_pit:1, 火塘和铁锅
 cuisine:fire_pit:2, 烧烤架
@@ -10929,10 +10908,11 @@ cuisine:sheared_leaves:10, 西柚树叶
 cuisine:sheared_leaves:11, 橙子树叶
 cuisine:sheared_leaves:12, 柠檬树叶
 cuisine:sheared_leaves:13, 酸橙树叶
-cuisine:wooden_basin, 木盆
-cuisine:chopping_board, 砧板
-cuisine:tofu_block, 豆腐块
 cuisine:fence, 柑橘木栅栏
+cuisine:fence_gate, 柑橘木栅栏门
+cuisine:chopping_board, 砧板
+cuisine:jar, 罐子
+cuisine:mill, 磨
 cuisine:earthen_basin_colored:0, 白色陶盆
 cuisine:earthen_basin_colored:1, 橙色陶盆
 cuisine:earthen_basin_colored:2, 品红色陶盆
@@ -10949,13 +10929,6 @@ cuisine:earthen_basin_colored:12, 棕色陶盆
 cuisine:earthen_basin_colored:13, 绿色陶盆
 cuisine:earthen_basin_colored:14, 红色陶盆
 cuisine:earthen_basin_colored:15, 黑色陶盆
-cuisine:fence_gate, 柑橘木栅栏门
-cuisine:earthen_basin, 陶盆
-cuisine:bamboo, 竹子
-cuisine:planks, 柑橘木板
-cuisine:log, 柑橘木
-cuisine:jar, 罐子
-cuisine:mill, 磨
 cuisine:sapling:0, 柚树苗
 cuisine:sapling:1, 香橼树苗
 cuisine:sapling:2, 橘子树苗
@@ -10963,6 +10936,7 @@ cuisine:sapling:3, 西柚树苗
 cuisine:sapling:4, 橙子树苗
 cuisine:sapling:5, 柠檬树苗
 cuisine:sapling:6, 酸橙树苗
+cuisine:bamboo, 竹子
 academy:ability_interferer, 能力干涉方块
 academy:cat_engine, 吐司猫
 academy:constraint_metal, 束能金属矿
@@ -11526,20 +11500,6 @@ betterbuilderswands:wandstone, 石质手杖
 betterbuilderswands:wandiron, 铁质手杖
 betterbuilderswands:wanddiamond, 钻石手杖
 betterbuilderswands:wandunbreakable, 不毁手杖
-cyclicmagic:nether_redstone_ore, 下界红石矿石
-cyclicmagic:nether_iron_ore, 下界铁矿石
-cyclicmagic:nether_gold_ore, 下界金矿石
-cyclicmagic:nether_coal_ore, 下界煤矿石
-cyclicmagic:nether_lapis_ore, 下界青金石矿石
-cyclicmagic:nether_emerald_ore, 下界绿宝石矿石
-cyclicmagic:nether_diamond_ore, 下界钻石矿石
-cyclicmagic:end_redstone_ore, 末地红石矿石
-cyclicmagic:end_coal_ore, 末地煤矿石
-cyclicmagic:end_lapis_ore, 末地青金石矿石
-cyclicmagic:end_emerald_ore, 末地绿宝石矿石
-cyclicmagic:end_diamond_ore, 末地钻石矿石
-cyclicmagic:end_gold_ore, 末地金矿石
-cyclicmagic:end_iron_ore, 末地铁矿石
 cyclicmagic:fluid_drain, 流体收集机
 cyclicmagic:crystallized_obsidian, 黑曜石水晶
 cyclicmagic:gold_minecart, 黄金矿车

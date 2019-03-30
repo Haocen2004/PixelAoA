@@ -1,4 +1,4 @@
-15042 nodes in total
+14989 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -2224,13 +2224,6 @@ ftbutilities.claims.block.edit.cyclicmagic.dehydrator: OP
 ftbutilities.claims.block.edit.cyclicmagic.dice: OP
 ftbutilities.claims.block.edit.cyclicmagic.doorbell_simple: OP
 ftbutilities.claims.block.edit.cyclicmagic.dropper_exact: OP
-ftbutilities.claims.block.edit.cyclicmagic.end_coal_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.end_diamond_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.end_emerald_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.end_gold_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.end_iron_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.end_lapis_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.end_redstone_ore: OP
 ftbutilities.claims.block.edit.cyclicmagic.energy_pipe: OP
 ftbutilities.claims.block.edit.cyclicmagic.energy_pump: OP
 ftbutilities.claims.block.edit.cyclicmagic.entity_detector: OP
@@ -2254,13 +2247,6 @@ ftbutilities.claims.block.edit.cyclicmagic.magnet_anti_block: OP
 ftbutilities.claims.block.edit.cyclicmagic.magnet_block: OP
 ftbutilities.claims.block.edit.cyclicmagic.milk: OP
 ftbutilities.claims.block.edit.cyclicmagic.moon_sensor: OP
-ftbutilities.claims.block.edit.cyclicmagic.nether_coal_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.nether_diamond_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.nether_emerald_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.nether_gold_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.nether_iron_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.nether_lapis_ore: OP
-ftbutilities.claims.block.edit.cyclicmagic.nether_redstone_ore: OP
 ftbutilities.claims.block.edit.cyclicmagic.password_block: OP
 ftbutilities.claims.block.edit.cyclicmagic.peat_baked: OP
 ftbutilities.claims.block.edit.cyclicmagic.peat_farm: OP
@@ -3389,6 +3375,7 @@ ftbutilities.claims.block.edit.quark.vertical_stained_planks: OP
 ftbutilities.claims.block.edit.quark.world_stone_bricks: OP
 ftbutilities.claims.block.edit.quark.world_stone_pavement: OP
 ftbutilities.claims.block.edit.redstonearsenal.storage: OP
+ftbutilities.claims.block.edit.researchtable.table: OP
 ftbutilities.claims.block.edit.simplyacceleration.accelerator: OP
 ftbutilities.claims.block.edit.snad.snad: OP
 ftbutilities.claims.block.edit.storagedrawers.basicdrawers: OP
@@ -5946,13 +5933,6 @@ ftbutilities.claims.block.interact.cyclicmagic.dehydrator: OP
 ftbutilities.claims.block.interact.cyclicmagic.dice: OP
 ftbutilities.claims.block.interact.cyclicmagic.doorbell_simple: OP
 ftbutilities.claims.block.interact.cyclicmagic.dropper_exact: OP
-ftbutilities.claims.block.interact.cyclicmagic.end_coal_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.end_diamond_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.end_emerald_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.end_gold_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.end_iron_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.end_lapis_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.end_redstone_ore: OP
 ftbutilities.claims.block.interact.cyclicmagic.energy_pipe: OP
 ftbutilities.claims.block.interact.cyclicmagic.energy_pump: OP
 ftbutilities.claims.block.interact.cyclicmagic.entity_detector: OP
@@ -5976,13 +5956,6 @@ ftbutilities.claims.block.interact.cyclicmagic.magnet_anti_block: OP
 ftbutilities.claims.block.interact.cyclicmagic.magnet_block: OP
 ftbutilities.claims.block.interact.cyclicmagic.milk: OP
 ftbutilities.claims.block.interact.cyclicmagic.moon_sensor: OP
-ftbutilities.claims.block.interact.cyclicmagic.nether_coal_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.nether_diamond_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.nether_emerald_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.nether_gold_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.nether_iron_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.nether_lapis_ore: OP
-ftbutilities.claims.block.interact.cyclicmagic.nether_redstone_ore: OP
 ftbutilities.claims.block.interact.cyclicmagic.password_block: OP
 ftbutilities.claims.block.interact.cyclicmagic.peat_baked: OP
 ftbutilities.claims.block.interact.cyclicmagic.peat_farm: OP
@@ -7111,6 +7084,7 @@ ftbutilities.claims.block.interact.quark.vertical_stained_planks: OP
 ftbutilities.claims.block.interact.quark.world_stone_bricks: OP
 ftbutilities.claims.block.interact.quark.world_stone_pavement: OP
 ftbutilities.claims.block.interact.redstonearsenal.storage: OP
+ftbutilities.claims.block.interact.researchtable.table: OP
 ftbutilities.claims.block.interact.simplyacceleration.accelerator: OP
 ftbutilities.claims.block.interact.snad.snad: OP
 ftbutilities.claims.block.interact.storagedrawers.basicdrawers: OP
@@ -10284,13 +10258,6 @@ ftbutilities.claims.item.aoa3.zorp_spawner: ALL
 ftbutilities.claims.item.appliedenergistics2.biometric_card: ALL
 ftbutilities.claims.item.appliedenergistics2.cable_bus: ALL
 ftbutilities.claims.item.appliedenergistics2.cell_workbench: ALL
-ftbutilities.claims.item.appliedenergistics2.certus_quartz_axe: ALL
-ftbutilities.claims.item.appliedenergistics2.certus_quartz_cutting_knife: ALL
-ftbutilities.claims.item.appliedenergistics2.certus_quartz_hoe: ALL
-ftbutilities.claims.item.appliedenergistics2.certus_quartz_pickaxe: ALL
-ftbutilities.claims.item.appliedenergistics2.certus_quartz_spade: ALL
-ftbutilities.claims.item.appliedenergistics2.certus_quartz_sword: ALL
-ftbutilities.claims.item.appliedenergistics2.certus_quartz_wrench: ALL
 ftbutilities.claims.item.appliedenergistics2.charged_quartz_ore: ALL
 ftbutilities.claims.item.appliedenergistics2.charged_staff: ALL
 ftbutilities.claims.item.appliedenergistics2.charger: ALL
@@ -10338,13 +10305,6 @@ ftbutilities.claims.item.appliedenergistics2.matrix_frame: ALL
 ftbutilities.claims.item.appliedenergistics2.matter_cannon: ALL
 ftbutilities.claims.item.appliedenergistics2.memory_card: ALL
 ftbutilities.claims.item.appliedenergistics2.molecular_assembler: ALL
-ftbutilities.claims.item.appliedenergistics2.nether_quartz_axe: ALL
-ftbutilities.claims.item.appliedenergistics2.nether_quartz_cutting_knife: ALL
-ftbutilities.claims.item.appliedenergistics2.nether_quartz_hoe: ALL
-ftbutilities.claims.item.appliedenergistics2.nether_quartz_pickaxe: ALL
-ftbutilities.claims.item.appliedenergistics2.nether_quartz_spade: ALL
-ftbutilities.claims.item.appliedenergistics2.nether_quartz_sword: ALL
-ftbutilities.claims.item.appliedenergistics2.nether_quartz_wrench: ALL
 ftbutilities.claims.item.appliedenergistics2.network_tool: ALL
 ftbutilities.claims.item.appliedenergistics2.paint: ALL
 ftbutilities.claims.item.appliedenergistics2.paint_ball: ALL
@@ -11261,13 +11221,6 @@ ftbutilities.claims.item.cyclicmagic.emerald_leggings: ALL
 ftbutilities.claims.item.cyclicmagic.emerald_pickaxe: ALL
 ftbutilities.claims.item.cyclicmagic.emerald_spade: ALL
 ftbutilities.claims.item.cyclicmagic.emerald_sword: ALL
-ftbutilities.claims.item.cyclicmagic.end_coal_ore: ALL
-ftbutilities.claims.item.cyclicmagic.end_diamond_ore: ALL
-ftbutilities.claims.item.cyclicmagic.end_emerald_ore: ALL
-ftbutilities.claims.item.cyclicmagic.end_gold_ore: ALL
-ftbutilities.claims.item.cyclicmagic.end_iron_ore: ALL
-ftbutilities.claims.item.cyclicmagic.end_lapis_ore: ALL
-ftbutilities.claims.item.cyclicmagic.end_redstone_ore: ALL
 ftbutilities.claims.item.cyclicmagic.ender_blaze: ALL
 ftbutilities.claims.item.cyclicmagic.ender_dungeon: ALL
 ftbutilities.claims.item.cyclicmagic.ender_eye_orb: ALL
@@ -11327,13 +11280,6 @@ ftbutilities.claims.item.cyclicmagic.magnet_block: ALL
 ftbutilities.claims.item.cyclicmagic.mattock: ALL
 ftbutilities.claims.item.cyclicmagic.milk: ALL
 ftbutilities.claims.item.cyclicmagic.moon_sensor: ALL
-ftbutilities.claims.item.cyclicmagic.nether_coal_ore: ALL
-ftbutilities.claims.item.cyclicmagic.nether_diamond_ore: ALL
-ftbutilities.claims.item.cyclicmagic.nether_emerald_ore: ALL
-ftbutilities.claims.item.cyclicmagic.nether_gold_ore: ALL
-ftbutilities.claims.item.cyclicmagic.nether_iron_ore: ALL
-ftbutilities.claims.item.cyclicmagic.nether_lapis_ore: ALL
-ftbutilities.claims.item.cyclicmagic.nether_redstone_ore: ALL
 ftbutilities.claims.item.cyclicmagic.netherbrick_axe: ALL
 ftbutilities.claims.item.cyclicmagic.netherbrick_hoe: ALL
 ftbutilities.claims.item.cyclicmagic.netherbrick_pickaxe: ALL
@@ -14203,6 +14149,7 @@ ftbutilities.claims.item.redstonearsenal.tool.sickle_flux: ALL
 ftbutilities.claims.item.redstonearsenal.tool.sword_flux: ALL
 ftbutilities.claims.item.redstonearsenal.tool.wrench_flux: ALL
 ftbutilities.claims.item.redstonearsenal.util.quiver_flux: ALL
+ftbutilities.claims.item.researchtable.table: ALL
 ftbutilities.claims.item.simplyacceleration.accelerator: ALL
 ftbutilities.claims.item.simplyacceleration.linking_tool: ALL
 ftbutilities.claims.item.snad.snad: ALL
@@ -15180,6 +15127,14 @@ command.ftbutilities.warp
 command.function
 command.gamemode
 command.gamerule
+command.gamestages.gamestage.add
+command.gamestages.gamestage.check
+command.gamestages.gamestage.clear
+command.gamestages.gamestage.info
+command.gamestages.gamestage.reloadfakes
+command.gamestages.gamestage.remove
+command.gamestages.gamestage.silentadd
+command.gamestages.gamestage.silentremove
 command.give
 command.hammercore.hc_buildstr
 command.hammercore.hc_export
@@ -15275,6 +15230,7 @@ command.quark.quarkconfig
 command.recipe
 command.recipehandler.recipes_server
 command.replaceitem
+command.researchtable.researchtable
 command.say
 command.scoreboard
 command.seed
@@ -15305,3 +15261,4 @@ command.valkyrielib.removeowner
 command.weather
 command.worldborder
 command.xp
+command.zenstages.zenstages

@@ -95,9 +95,9 @@ key_key.skills:23
 key_key.skillsLeft:203
 key_key.skillsRight:205
 key_key.resources:24
-key_quark.keybind.toggleAutojump:48
 key_quark.keybind.lockBuilding:37
 key_quark.keybind.changeHotbar:44
+key_quark.keybind.toggleAutojump:48
 key_keybind.hammercorerenderstack:77
 key_chineseworkshop.keybind.select:56
 key_Open Menu:25
@@ -174,11 +174,6 @@ key_key.keyWheel:19
 key_key.keyExtraCraftin:46
 key_key.toggleLiquids:38
 key_key.toggleVisible:0
-key_key.i18nmod.main_key.desc:29
-key_key.i18nmod.report_key.desc:37
-key_key.i18nmod.weblate_key.desc:38
-key_key.i18nmod.mcmod_key.desc:50
-key_key.i18nmod.reload_key.desc:19
 key_key.dragon_fireAttack:19
 key_key.dragon_strike:34
 key_key.dragon_down:45
@@ -203,7 +198,7 @@ key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
 key_Profile GUI:210
 key_Check Slot:25
-soundCategory_master:0.18543047
+soundCategory_master:0.013245033
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
