@@ -7,10 +7,12 @@ valkyrielib
 resourcepacks
 assets
 journeymap
-local
 patchouli_books
 saves
 mods
+acmedia
+cache
+journeymap
 .mixin.out
 
 .ReAuth.cfg
@@ -20,7 +22,10 @@ patchouli_data.json
 ExtraBotanyVars.dat
 crafttweaker.log
 pixel.dat
-options.txt
+hmcl.json
+usercache.json
+usernamecache.json
+hc_options.txt
 
 *.meta
 *.exe
