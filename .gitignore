@@ -28,6 +28,8 @@ pixel.dat
 usercache.json
 usernamecache.json
 .curseclient
+concheckrmd
+options.txt
 
 #Type
 *.meta
