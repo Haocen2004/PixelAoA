@@ -2,7 +2,6 @@
 logs
 libraries
 acmedia
-dakimakura-mod
 llibrary
 valkyrielib
 resourcepacks
@@ -16,6 +15,7 @@ cache
 journeymap
 .mixin.out
 crash-reports
+backups
 
 #File
 .ReAuth.cfg
